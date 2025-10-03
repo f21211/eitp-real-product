@@ -1,0 +1,207 @@
+created_at: '2025-10-03T10:30:00.000000'
+version: '2.0.0'
+environment: production
+
+# 数据库配置
+database:
+  type: sqlite
+  path: data/eitp_production.db
+  max_connections: 200
+  backup_interval: 6h
+  backup_retention: 7
+  connection_timeout: 30
+  query_timeout: 60
+
+# 实验管理配置
+experiments:
+  max_concurrent: 10
+  timeout: 48h
+  retention_days: 90
+  auto_cleanup: true
+  cleanup_interval: 24h
+  max_experiment_size: 10GB
+  checkpoint_interval: 1h
+  auto_save: true
+
+# GPU配置
+gpu:
+  enabled: true
+  memory_limit: 24GB
+  cleanup_threshold: 0.85
+  monitoring_interval: 2
+  auto_cleanup: true
+  memory_warning_threshold: 0.8
+  temperature_warning: 85
+  power_limit: 300
+
+# 日志配置
+logging:
+  level: INFO
+  file: logs/production.log
+  format: '%(asctime)s - %(name)s - %(levelname)s - [%(filename)s:%(lineno)d] - %(message)s'
+  max_size: 200MB
+  backup_count: 10
+  rotation: daily
+  compression: true
+  structured: true
+  json_format: true
+
+# 监控配置
+monitoring:
+  metrics_interval: 1
+  health_check_interval: 5
+  alert_thresholds:
+    cpu_percent: 85
+    memory_percent: 85
+    disk_percent: 90
+    gpu_memory_percent: 85
+    gpu_temperature: 80
+    response_time_ms: 1000
+    error_rate_percent: 5
+  alert_channels:
+    email:
+      enabled: false
+      smtp_server: smtp.gmail.com
+      smtp_port: 587
+      username: ""
+      password: ""
+      recipients: []
+    webhook:
+      enabled: true
+      url: ""
+      timeout: 10
+  metrics_retention: 30d
+  dashboard_refresh: 5
+
+# 安全配置
+security:
+  secret_key: eitp_production_secret_key_2025_enhanced
+  encryption_key: eitp_encryption_key_2025_256bit
+  jwt_secret: eitp_jwt_secret_2025_enhanced
+  jwt_expiry: 24h
+  refresh_token_expiry: 7d
+  rate_limit:
+    api_requests_per_minute: 2000
+    inference_requests_per_minute: 200
+    training_requests_per_minute: 10
+    burst_limit: 100
+  cors:
+    enabled: true
+    origins: ["*"]
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"]
+    headers: ["Content-Type", "Authorization"]
+  ssl:
+    enabled: false
+    cert_file: ""
+    key_file: ""
+
+# 服务配置
+services:
+  api_server:
+    host: 0.0.0.0
+    port: 8085
+    debug: false
+    workers: 8
+    timeout: 60
+    max_requests: 5000
+    keepalive: 5
+    max_connections: 1000
+    buffer_size: 65536
+    
+  monitor_dashboard:
+    host: 0.0.0.0
+    port: 8082
+    debug: false
+    workers: 4
+    timeout: 30
+    max_connections: 500
+    
+  inference_service:
+    host: 0.0.0.0
+    port: 8086
+    debug: false
+    workers: 6
+    timeout: 120
+    max_requests: 1000
+    model_cache_size: 5
+    batch_size: 32
+    
+  auth_service:
+    host: 0.0.0.0
+    port: 8087
+    debug: false
+    workers: 4
+    timeout: 30
+    max_connections: 1000
+    
+  model_management:
+    host: 0.0.0.0
+    port: 8090
+    debug: false
+    workers: 4
+    timeout: 300
+    max_file_size: 10GB
+    
+  docs_server:
+    host: 0.0.0.0
+    port: 8088
+    debug: false
+    workers: 2
+    timeout: 30
+
+# 性能优化配置
+performance:
+  cache:
+    enabled: true
+    type: redis
+    host: localhost
+    port: 6379
+    db: 0
+    ttl: 3600
+    max_memory: 1GB
+  compression:
+    enabled: true
+    level: 6
+    min_size: 1024
+  connection_pooling:
+    enabled: true
+    max_connections: 100
+    min_connections: 10
+    max_idle_time: 300
+  load_balancing:
+    enabled: false
+    algorithm: round_robin
+    health_check_interval: 30
+
+# 备份配置
+backup:
+  enabled: true
+  schedule: "0 2 * * *"  # 每天凌晨2点
+  retention_days: 30
+  compression: true
+  encryption: true
+  destinations:
+    - type: local
+      path: /backup/eitp
+    - type: s3
+      enabled: false
+      bucket: ""
+      region: ""
+
+# 部署配置
+deployment:
+  mode: production
+  auto_restart: true
+  max_restarts: 5
+  restart_delay: 30
+  health_check:
+    enabled: true
+    interval: 10
+    timeout: 5
+    retries: 3
+  scaling:
+    auto_scale: false
+    min_instances: 1
+    max_instances: 10
+    scale_up_threshold: 80
+    scale_down_threshold: 20

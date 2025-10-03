@@ -1,0 +1,88 @@
+{
+  "test_timestamp": "2025-10-03T09:37:14.439008",
+  "total_tests": 4,
+  "successful_tests": 4,
+  "success_rate": 100.0,
+  "dashboard_tests": {
+    "training_status_endpoint": {
+      "url": "http://localhost:8082/api/training/status",
+      "method": "GET",
+      "status": "success",
+      "response": {
+        "is_training": false,
+        "training_processes": [],
+        "timestamp": "2025-10-03T09:36:46.126913"
+      }
+    },
+    "gpu_status_endpoint": {
+      "url": "http://localhost:8082/api/gpu/status",
+      "method": "GET",
+      "status": "success",
+      "response": {
+        "available": true,
+        "device_count": 2,
+        "current_device": 0,
+        "devices": [
+          {
+            "id": 0,
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 23.55,
+            "memory_allocated": 0.0,
+            "memory_reserved": 0.0
+          },
+          {
+            "id": 1,
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 23.56,
+            "memory_allocated": 0.0,
+            "memory_reserved": 0.0
+          }
+        ]
+      }
+    },
+    "system_status_endpoint": {
+      "url": "http://localhost:8082/api/system",
+      "method": "GET",
+      "status": "success",
+      "response": {
+        "cpu_percent": 3.4,
+        "memory_percent": 37.0,
+        "disk_usage_percent": 87.5,
+        "gpu_memory_allocated": 0.0,
+        "gpu_memory_reserved": 0.0,
+        "gpu_utilization": 0
+      }
+    },
+    "experiments_endpoint": {
+      "url": "http://localhost:8082/api/experiments",
+      "method": "GET",
+      "status": "success",
+      "response": {
+        "total_experiments": 22,
+        "completed_experiments": 6,
+        "running_experiments": 15,
+        "pending_experiments": 1
+      }
+    }
+  },
+  "new_features": [
+    "训练状态监控 (/api/training/status) - 实时监控训练进程",
+    "GPU状态监控 (/api/gpu/status) - 详细GPU信息和内存使用",
+    "系统状态监控 (/api/system) - 实时系统资源监控",
+    "实验日志查看 (/api/experiments/<id>/logs) - 查看实验日志",
+    "实验数据下载 (/api/experiments/<id>/download) - 下载实验数据包",
+    "实时WebSocket通信 - 支持实时数据推送",
+    "响应式Web界面 - 支持移动端和桌面端"
+  ],
+  "system_status": {
+    "cpu_percent": 3.4,
+    "memory_percent": 37.0,
+    "disk_usage_percent": 87.5,
+    "gpu_devices": 2,
+    "gpu_memory_usage": 0.0,
+    "total_experiments": 22,
+    "completed_experiments": 6,
+    "running_experiments": 15,
+    "pending_experiments": 1
+  }
+}

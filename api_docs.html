@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EIT-P API 文档</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .service {
+            background: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .endpoint {
+            background: #f8f9fa;
+            padding: 15px;
+            margin: 10px 0;
+            border-left: 4px solid #007bff;
+            border-radius: 5px;
+        }
+        .method {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        .get { background: #28a745; color: white; }
+        .post { background: #007bff; color: white; }
+        .put { background: #ffc107; color: black; }
+        .delete { background: #dc3545; color: white; }
+        .url {
+            font-family: monospace;
+            background: #e9ecef;
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚀 EIT-P API 文档</h1>
+        <p>基于热力学原理的涌现智能框架 - 完整API接口文档</p>
+    </div>
+    
+    <div class="service">
+        <h2>📊 API服务器 (端口 8085)</h2>
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <span class="url">/health</span>
+            <p>健康检查</p>
+        </div>
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <span class="url">/api/experiments</span>
+            <p>获取实验列表</p>
+        </div>
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <span class="url">/api/experiments</span>
+            <p>创建新实验</p>
+        </div>
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <span class="url">/api/system/status</span>
+            <p>获取系统状态</p>
+        </div>
+    </div>
+    
+    <div class="service">
+        <h2>🧠 推理服务 (端口 8086)</h2>
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <span class="url">/api/inference/text_generation</span>
+            <p>文本生成推理</p>
+        </div>
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <span class="url">/api/inference/classification</span>
+            <p>文本分类推理</p>
+        </div>
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <span class="url">/api/inference/qa</span>
+            <p>问答推理</p>
+        </div>
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <span class="url">/api/inference/embedding</span>
+            <p>文本嵌入推理</p>
+        </div>
+    </div>
+    
+    <div class="service">
+        <h2>🔐 认证服务 (端口 8087)</h2>
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <span class="url">/api/auth/register</span>
+            <p>用户注册</p>
+        </div>
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <span class="url">/api/auth/login</span>
+            <p>用户登录</p>
+        </div>
+        <div class="endpoint">
+            <span class="method post">POST</span>
+            <span class="url">/api/auth/verify</span>
+            <p>验证令牌</p>
+        </div>
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <span class="url">/api/auth/users</span>
+            <p>获取用户列表</p>
+        </div>
+    </div>
+    
+    <div class="service">
+        <h2>📈 监控仪表板 (端口 8082)</h2>
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <span class="url">/api/system</span>
+            <p>获取系统状态</p>
+        </div>
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <span class="url">/api/gpu/status</span>
+            <p>获取GPU状态</p>
+        </div>
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <span class="url">/api/training/status</span>
+            <p>获取训练状态</p>
+        </div>
+        <div class="endpoint">
+            <span class="method get">GET</span>
+            <span class="url">/api/experiments</span>
+            <p>获取实验列表</p>
+        </div>
+    </div>
+    
+    <div class="service">
+        <h2>📖 使用说明</h2>
+        <h3>1. 启动服务</h3>
+        <pre># 启动所有服务
+./start_production.sh
+
+# 或单独启动
+python3 scripts/api_server.py &
+python3 scripts/inference_service.py &
+python3 scripts/auth_service.py &
+python3 scripts/monitor_dashboard.py &</pre>
+        
+        <h3>2. 测试接口</h3>
+        <pre># 健康检查
+curl http://localhost:8085/health
+
+# 创建实验
+curl -X POST http://localhost:8085/api/experiments   -H "Content-Type: application/json"   -d '{"name":"测试实验","description":"测试描述","model_name":"gpt2","dataset_name":"test"}'
+
+# 文本生成
+curl -X POST http://localhost:8086/api/inference/text_generation   -H "Content-Type: application/json"   -d '{"text":"人工智能的未来"}'
+
+# 用户登录
+curl -X POST http://localhost:8087/api/auth/login   -H "Content-Type: application/json"   -d '{"username":"admin","password":"admin123"}'</pre>
+        
+        <h3>3. 访问监控</h3>
+        <p>打开浏览器访问: <a href="http://localhost:8082">http://localhost:8082</a></p>
+    </div>
+</body>
+</html>

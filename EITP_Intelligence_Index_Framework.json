@@ -1,0 +1,96 @@
+{
+  "framework_name": "EIT-P智能指数验证框架",
+  "framework_id": "EITP_INTELLIGENCE_INDEX_2025",
+  "creation_date": "2025-10-03T09:00:09.957271",
+  "objective": "量化评估EIT-P的智能水平和涌现能力",
+  "theoretical_basis": {
+    "iem_theory": "基于修正质能方程的涌现智能理论",
+    "emergence_criteria": [
+      "非线性涌现",
+      "自组织临界性",
+      "混沌边缘状态",
+      "热力学优化",
+      "信息整合"
+    ],
+    "intelligence_dimensions": [
+      "认知能力",
+      "学习能力",
+      "适应能力",
+      "创造能力",
+      "推理能力"
+    ]
+  },
+  "intelligence_metrics": {
+    "cognitive_metrics": {
+      "attention_quality": "注意力机制质量",
+      "memory_efficiency": "记忆效率",
+      "pattern_recognition": "模式识别能力",
+      "concept_formation": "概念形成能力"
+    },
+    "learning_metrics": {
+      "learning_speed": "学习速度",
+      "generalization": "泛化能力",
+      "transfer_learning": "迁移学习能力",
+      "meta_learning": "元学习能力"
+    },
+    "adaptation_metrics": {
+      "environmental_adaptation": "环境适应能力",
+      "task_switching": "任务切换能力",
+      "robustness": "鲁棒性",
+      "resilience": "恢复能力"
+    },
+    "creative_metrics": {
+      "novelty_generation": "新颖性生成",
+      "divergent_thinking": "发散思维",
+      "convergent_thinking": "收敛思维",
+      "insight_formation": "洞察形成"
+    },
+    "reasoning_metrics": {
+      "logical_reasoning": "逻辑推理",
+      "causal_reasoning": "因果推理",
+      "analogical_reasoning": "类比推理",
+      "abductive_reasoning": "溯因推理"
+    }
+  },
+  "evaluation_methods": {
+    "benchmark_tasks": [
+      "语言理解任务",
+      "数学推理任务",
+      "常识推理任务",
+      "创造性任务",
+      "多步骤推理任务"
+    ],
+    "dynamic_tasks": [
+      "在线学习任务",
+      "环境变化适应任务",
+      "新任务迁移任务",
+      "元认知任务"
+    ],
+    "emergence_tasks": [
+      "涌现行为观察",
+      "自组织模式检测",
+      "临界状态分析",
+      "混沌边缘验证"
+    ]
+  },
+  "scoring_system": {
+    "intelligence_index_range": [
+      0,
+      100
+    ],
+    "dimension_weights": {
+      "cognitive": 0.25,
+      "learning": 0.25,
+      "adaptation": 0.2,
+      "creative": 0.15,
+      "reasoning": 0.15
+    },
+    "emergence_bonus": {
+      "nonlinear_emergence": 10,
+      "self_organization": 10,
+      "chaos_edge": 10,
+      "thermodynamic_optimization": 10,
+      "information_integration": 10
+    }
+  }
+}

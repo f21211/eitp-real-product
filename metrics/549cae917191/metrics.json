@@ -1,0 +1,86 @@
+{
+  "loss": [
+    {
+      "timestamp": 1759452559.5971577,
+      "step": 1,
+      "epoch": 0,
+      "value": 1.0,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759452559.5972748,
+      "step": 2,
+      "epoch": 0,
+      "value": 0.5,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759452559.597508,
+      "step": 3,
+      "epoch": 0,
+      "value": 0.3333333333333333,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759452559.5976741,
+      "step": 4,
+      "epoch": 0,
+      "value": 0.25,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759452559.5978553,
+      "step": 5,
+      "epoch": 0,
+      "value": 0.2,
+      "metric_name": "loss",
+      "tags": {}
+    }
+  ],
+  "accuracy": [
+    {
+      "timestamp": 1759452559.5972006,
+      "step": 1,
+      "epoch": 0,
+      "value": 0.8400000000000001,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759452559.5973852,
+      "step": 2,
+      "epoch": 0,
+      "value": 0.88,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759452559.597597,
+      "step": 3,
+      "epoch": 0,
+      "value": 0.92,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759452559.5977597,
+      "step": 4,
+      "epoch": 0,
+      "value": 0.9600000000000001,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759452559.5979545,
+      "step": 5,
+      "epoch": 0,
+      "value": 1.0,
+      "metric_name": "accuracy",
+      "tags": {}
+    }
+  ]
+}

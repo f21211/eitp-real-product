@@ -1,0 +1,1208 @@
+{
+  "loss": [
+    {
+      "timestamp": 1759423487.4557586,
+      "step": 0,
+      "epoch": 0,
+      "value": 0.9970507362933603,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.456027,
+      "step": 1,
+      "epoch": 0,
+      "value": 0.987246809758092,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4564373,
+      "step": 2,
+      "epoch": 0,
+      "value": 0.9619574986714243,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4568522,
+      "step": 3,
+      "epoch": 0,
+      "value": 1.0110814649337174,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4573238,
+      "step": 4,
+      "epoch": 0,
+      "value": 0.993893401611,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.457833,
+      "step": 5,
+      "epoch": 0,
+      "value": 0.927684610521903,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4583764,
+      "step": 6,
+      "epoch": 0,
+      "value": 0.9456365605959561,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4589126,
+      "step": 7,
+      "epoch": 0,
+      "value": 0.9555998383076214,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4598503,
+      "step": 8,
+      "epoch": 0,
+      "value": 0.878005087470283,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4605248,
+      "step": 9,
+      "epoch": 0,
+      "value": 0.8906829830844647,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.461274,
+      "step": 10,
+      "epoch": 0,
+      "value": 0.8015000859851588,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4620836,
+      "step": 11,
+      "epoch": 0,
+      "value": 0.7766645318137818,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4629889,
+      "step": 12,
+      "epoch": 0,
+      "value": 0.801730664894004,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4639442,
+      "step": 13,
+      "epoch": 0,
+      "value": 0.7937808442177884,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4649615,
+      "step": 14,
+      "epoch": 0,
+      "value": 0.7482303748080859,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.466049,
+      "step": 15,
+      "epoch": 0,
+      "value": 0.7809586853731264,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4671888,
+      "step": 16,
+      "epoch": 0,
+      "value": 0.727538121282089,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.468438,
+      "step": 17,
+      "epoch": 0,
+      "value": 0.72287853002273,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4697213,
+      "step": 18,
+      "epoch": 0,
+      "value": 0.7052918995612916,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4710774,
+      "step": 19,
+      "epoch": 0,
+      "value": 0.722761756617451,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4725127,
+      "step": 20,
+      "epoch": 0,
+      "value": 0.5654713214298065,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4740126,
+      "step": 21,
+      "epoch": 0,
+      "value": 0.5969427628946412,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4756577,
+      "step": 22,
+      "epoch": 0,
+      "value": 0.5821315472827856,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.477401,
+      "step": 23,
+      "epoch": 0,
+      "value": 0.5971087911523378,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4792073,
+      "step": 24,
+      "epoch": 0,
+      "value": 0.5937255092045998,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4810872,
+      "step": 25,
+      "epoch": 0,
+      "value": 0.555349397326798,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4830294,
+      "step": 26,
+      "epoch": 0,
+      "value": 0.5625788583635041,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.486057,
+      "step": 27,
+      "epoch": 0,
+      "value": 0.5318511028795844,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4886107,
+      "step": 28,
+      "epoch": 0,
+      "value": 0.5121278333696188,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4906476,
+      "step": 29,
+      "epoch": 0,
+      "value": 0.5157415401019635,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.492739,
+      "step": 30,
+      "epoch": 0,
+      "value": 0.424704164483183,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4948773,
+      "step": 31,
+      "epoch": 0,
+      "value": 0.4051668831378884,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4972255,
+      "step": 32,
+      "epoch": 0,
+      "value": 0.37924199957315813,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4996881,
+      "step": 33,
+      "epoch": 0,
+      "value": 0.3988816895081567,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5022109,
+      "step": 34,
+      "epoch": 0,
+      "value": 0.3505018151370099,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.504791,
+      "step": 35,
+      "epoch": 0,
+      "value": 0.35066579180842516,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5074558,
+      "step": 36,
+      "epoch": 0,
+      "value": 0.3224866452647494,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5101964,
+      "step": 37,
+      "epoch": 0,
+      "value": 0.3505171530410453,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5129597,
+      "step": 38,
+      "epoch": 0,
+      "value": 0.3192086729749602,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5158155,
+      "step": 39,
+      "epoch": 0,
+      "value": 0.31998988359265473,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5187354,
+      "step": 40,
+      "epoch": 0,
+      "value": 0.20260129801839083,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5217054,
+      "step": 41,
+      "epoch": 0,
+      "value": 0.19146849566451032,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5249157,
+      "step": 42,
+      "epoch": 0,
+      "value": 0.17639453135639346,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5278544,
+      "step": 43,
+      "epoch": 0,
+      "value": 0.1921537228842922,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.530829,
+      "step": 44,
+      "epoch": 0,
+      "value": 0.16925127249446356,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5339222,
+      "step": 45,
+      "epoch": 0,
+      "value": 0.12655195019389617,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5371923,
+      "step": 46,
+      "epoch": 0,
+      "value": 0.11983451249859567,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5404298,
+      "step": 47,
+      "epoch": 0,
+      "value": 0.13414901118719677,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5437362,
+      "step": 48,
+      "epoch": 0,
+      "value": 0.11499294597830383,
+      "metric_name": "loss",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5539575,
+      "step": 49,
+      "epoch": 0,
+      "value": 0.12217950344092897,
+      "metric_name": "loss",
+      "tags": {}
+    }
+  ],
+  "accuracy": [
+    {
+      "timestamp": 1759423487.4558148,
+      "step": 0,
+      "epoch": 0,
+      "value": 0.5169300261207446,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4561667,
+      "step": 1,
+      "epoch": 0,
+      "value": 0.5063568756607587,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4565728,
+      "step": 2,
+      "epoch": 0,
+      "value": 0.504933768555836,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.456993,
+      "step": 3,
+      "epoch": 0,
+      "value": 0.5180631139067261,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4574828,
+      "step": 4,
+      "epoch": 0,
+      "value": 0.507179686176779,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4580195,
+      "step": 5,
+      "epoch": 0,
+      "value": 0.5137641360858525,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4585485,
+      "step": 6,
+      "epoch": 0,
+      "value": 0.5241293386773148,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4593916,
+      "step": 7,
+      "epoch": 0,
+      "value": 0.5369771329214029,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.460069,
+      "step": 8,
+      "epoch": 0,
+      "value": 0.5410650922618669,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4607723,
+      "step": 9,
+      "epoch": 0,
+      "value": 0.5387138627114358,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4615364,
+      "step": 10,
+      "epoch": 0,
+      "value": 0.6039058534199662,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.46238,
+      "step": 11,
+      "epoch": 0,
+      "value": 0.5947866530178475,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4633048,
+      "step": 12,
+      "epoch": 0,
+      "value": 0.620463940399705,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4642756,
+      "step": 13,
+      "epoch": 0,
+      "value": 0.6074345410965712,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4653244,
+      "step": 14,
+      "epoch": 0,
+      "value": 0.6199249164712867,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4664207,
+      "step": 15,
+      "epoch": 0,
+      "value": 0.6164138778709385,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4676008,
+      "step": 16,
+      "epoch": 0,
+      "value": 0.6070222751203849,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4688575,
+      "step": 17,
+      "epoch": 0,
+      "value": 0.6193493225422602,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4701653,
+      "step": 18,
+      "epoch": 0,
+      "value": 0.6446586120166129,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4715562,
+      "step": 19,
+      "epoch": 0,
+      "value": 0.6474294806027822,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4730055,
+      "step": 20,
+      "epoch": 0,
+      "value": 0.7090235713153349,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4745185,
+      "step": 21,
+      "epoch": 0,
+      "value": 0.7047790604709057,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4762325,
+      "step": 22,
+      "epoch": 0,
+      "value": 0.7108988587391067,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4779973,
+      "step": 23,
+      "epoch": 0,
+      "value": 0.7237683170836701,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.479835,
+      "step": 24,
+      "epoch": 0,
+      "value": 0.7025563761800753,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4817257,
+      "step": 25,
+      "epoch": 0,
+      "value": 0.7319476366421872,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4839578,
+      "step": 26,
+      "epoch": 0,
+      "value": 0.7216408239630635,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4871516,
+      "step": 27,
+      "epoch": 0,
+      "value": 0.7283154273575698,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4892983,
+      "step": 28,
+      "epoch": 0,
+      "value": 0.7552967577924673,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4913394,
+      "step": 29,
+      "epoch": 0,
+      "value": 0.7490497516787212,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4934416,
+      "step": 30,
+      "epoch": 0,
+      "value": 0.8005476250710702,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4956627,
+      "step": 31,
+      "epoch": 0,
+      "value": 0.8004638225116046,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4980404,
+      "step": 32,
+      "epoch": 0,
+      "value": 0.8033761354907962,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5005226,
+      "step": 33,
+      "epoch": 0,
+      "value": 0.8281134018989179,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5030587,
+      "step": 34,
+      "epoch": 0,
+      "value": 0.8150930338044986,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.505671,
+      "step": 35,
+      "epoch": 0,
+      "value": 0.8350189149353157,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.508349,
+      "step": 36,
+      "epoch": 0,
+      "value": 0.8287795158206377,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.511111,
+      "step": 37,
+      "epoch": 0,
+      "value": 0.8450251171076707,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5138972,
+      "step": 38,
+      "epoch": 0,
+      "value": 0.8442757974090188,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.516783,
+      "step": 39,
+      "epoch": 0,
+      "value": 0.8484012109359251,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.519716,
+      "step": 40,
+      "epoch": 0,
+      "value": 0.884050905914858,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.522813,
+      "step": 41,
+      "epoch": 0,
+      "value": 0.9078781048138811,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.525897,
+      "step": 42,
+      "epoch": 0,
+      "value": 0.9185537337265944,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.528837,
+      "step": 43,
+      "epoch": 0,
+      "value": 0.9292092108532302,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5318475,
+      "step": 44,
+      "epoch": 0,
+      "value": 0.9073648351234361,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5349984,
+      "step": 45,
+      "epoch": 0,
+      "value": 0.9194123580224142,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5382621,
+      "step": 46,
+      "epoch": 0,
+      "value": 0.9311901771514831,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5415235,
+      "step": 47,
+      "epoch": 0,
+      "value": 0.9453313115991666,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.544878,
+      "step": 48,
+      "epoch": 0,
+      "value": 0.9258781811245481,
+      "metric_name": "accuracy",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5593603,
+      "step": 49,
+      "epoch": 0,
+      "value": 0.9364993746172406,
+      "metric_name": "accuracy",
+      "tags": {}
+    }
+  ],
+  "learning_rate": [
+    {
+      "timestamp": 1759423487.4558995,
+      "step": 0,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4563081,
+      "step": 1,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4567094,
+      "step": 2,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4571426,
+      "step": 3,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4576511,
+      "step": 4,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4582112,
+      "step": 5,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4587235,
+      "step": 6,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4596133,
+      "step": 7,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4602933,
+      "step": 8,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4610183,
+      "step": 9,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4618049,
+      "step": 10,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4626863,
+      "step": 11,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4636195,
+      "step": 12,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4646146,
+      "step": 13,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4656823,
+      "step": 14,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4668024,
+      "step": 15,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.468008,
+      "step": 16,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4692807,
+      "step": 17,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4706173,
+      "step": 18,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.47203,
+      "step": 19,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4735055,
+      "step": 20,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4750714,
+      "step": 21,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4768095,
+      "step": 22,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4785955,
+      "step": 23,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4804611,
+      "step": 24,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4823735,
+      "step": 25,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.485019,
+      "step": 26,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4879127,
+      "step": 27,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.48997,
+      "step": 28,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.492036,
+      "step": 29,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4941528,
+      "step": 30,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4964354,
+      "step": 31,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.4988525,
+      "step": 32,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5013566,
+      "step": 33,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5039203,
+      "step": 34,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.50655,
+      "step": 35,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5092525,
+      "step": 36,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5120409,
+      "step": 37,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.514836,
+      "step": 38,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5177536,
+      "step": 39,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.520696,
+      "step": 40,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5239072,
+      "step": 41,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.526878,
+      "step": 42,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5298276,
+      "step": 43,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5328605,
+      "step": 44,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5361083,
+      "step": 45,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5393286,
+      "step": 46,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.5426269,
+      "step": 47,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.54741,
+      "step": 48,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    },
+    {
+      "timestamp": 1759423487.568935,
+      "step": 49,
+      "epoch": 0,
+      "value": 0.001,
+      "metric_name": "learning_rate",
+      "tags": {}
+    }
+  ]
+}

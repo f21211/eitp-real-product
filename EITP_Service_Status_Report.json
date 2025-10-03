@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-10-03T09:19:29.294518",
+  "services": {
+    "api_server": {
+      "port": 8085,
+      "status": "运行中",
+      "pid": "1968673",
+      "url": "http://localhost:8085",
+      "http_status": 404,
+      "response_time": 0.001832,
+      "connection": "成功"
+    },
+    "monitor_dashboard": {
+      "port": 8082,
+      "status": "运行中",
+      "pid": "1814749",
+      "url": "http://localhost:8082",
+      "http_status": 200,
+      "response_time": 0.001186,
+      "connection": "成功"
+    }
+  },
+  "overall_status": "运行中"
+}

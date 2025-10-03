@@ -1,0 +1,38 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="eit-p",
+    version="1.0.0",
+    description="Emergent Intelligence Transformer Prototype - 基于物理学原理的涌现智能变压器",
+    author="EIT-P Team",
+    packages=find_packages(),
+    install_requires=[
+        "torch>=2.0.0",
+        "transformers>=4.30.0",
+        "numpy>=1.24.0",
+        "scipy>=1.10.0",
+        "scikit-learn>=1.3.0",
+        "matplotlib>=3.7.0",
+        "seaborn>=0.12.0",
+        "tqdm>=4.65.0",
+        "wandb>=0.15.0",
+        "tensorboard>=2.13.0",
+        "einops>=0.6.0",
+        "optuna>=3.2.0",
+        "datasets>=2.12.0",
+        "accelerate>=0.20.0",
+        "deepspeed>=0.9.0",
+        "bitsandbytes>=0.39.0",
+    ],
+    python_requires=">=3.8",
+    classifiers=[
+        "Development Status :: 4 - Beta",
+        "Intended Audience :: Science/Research",
+        "License :: OSI Approved :: MIT License",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
+    ],
+)

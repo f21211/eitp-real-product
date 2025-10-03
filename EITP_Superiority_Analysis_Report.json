@@ -1,0 +1,14 @@
+{
+  "experiment_summary": {
+    "experiment_id": "EITP_SUPERIORITY_2025",
+    "analysis_date": "2025-10-03T08:58:13.753709",
+    "total_experiments": 20,
+    "control_experiments": 10,
+    "treatment_experiments": 10
+  },
+  "key_findings": {
+    "memory_efficiency": {
+      "improvement": -47.341128920930004,
+      "control_mean": 15.085327935215613,
+      "treatment_mean": 7.943763389260122,
+      "significant": 

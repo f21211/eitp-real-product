@@ -1,0 +1,125 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "EIT-P API Documentation",
+    "description": "EIT-P (Emergent Intelligence through Thermodynamic Principles) API文档",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:8085",
+      "description": "API服务器"
+    },
+    {
+      "url": "http://localhost:8086",
+      "description": "推理服务"
+    },
+    {
+      "url": "http://localhost:8087",
+      "description": "认证服务"
+    },
+    {
+      "url": "http://localhost:8082",
+      "description": "监控仪表板"
+    }
+  ],
+  "paths": {
+    "/health": {
+      "get": {
+        "summary": "健康检查",
+        "responses": {
+          "200": {
+            "description": "服务正常"
+          }
+        }
+      }
+    },
+    "/api/experiments": {
+      "get": {
+        "summary": "获取实验列表",
+        "responses": {
+          "200": {
+            "description": "成功获取实验列表"
+          }
+        }
+      },
+      "post": {
+        "summary": "创建新实验",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["name", "description", "model_name", "dataset_name"],
+                "properties": {
+                  "name": {"type": "string"},
+                  "description": {"type": "string"},
+                  "model_name": {"type": "string"},
+                  "dataset_name": {"type": "string"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "实验创建成功"
+          }
+        }
+      }
+    },
+    "/api/inference/text_generation": {
+      "post": {
+        "summary": "文本生成推理",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["text"],
+                "properties": {
+                  "text": {"type": "string"},
+                  "model_id": {"type": "string"},
+                  "max_length": {"type": "integer"},
+                  "temperature": {"type": "number"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "文本生成成功"
+          }
+        }
+      }
+    },
+    "/api/auth/login": {
+      "post": {
+        "summary": "用户登录",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": ["username", "password"],
+                "properties": {
+                  "username": {"type": "string"},
+                  "password": {"type": "string"}
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "登录成功"
+          }
+        }
+      }
+    }
+  }
+}

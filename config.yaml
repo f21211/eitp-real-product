@@ -1,0 +1,133 @@
+# EIT-P 配置文件
+# 基于全面审查报告的改进建议
+
+# 训练配置
+training:
+  # 基础训练参数
+  batch_size: 1
+  gradient_accumulation_steps: 16
+  learning_rate: 5e-5
+  max_grad_norm: 0.1
+  warmup_steps: 10
+  num_train_epochs: 1
+  
+  # 评估和保存
+  eval_strategy: "no"  # 禁用评估以节省内存
+  save_strategy: "steps"
+  save_steps: 500
+  save_total_limit: 1
+  logging_steps: 50
+  
+  # 数据加载
+  dataloader_num_workers: 0
+  dataloader_pin_memory: false
+  dataloader_drop_last: true
+  remove_unused_columns: false
+  
+  # 精度和优化
+  fp16: false  # 保持FP32稳定性
+  report_to: "none"  # 禁用wandb
+
+# 模型配置
+model:
+  name: "gpt2"
+  block_size: 16  # 进一步减小序列长度
+  output_hidden_states: true
+  low_cpu_mem_usage: true
+  torch_dtype: "float32"
+
+# 超网络配置
+hypernetwork:
+  input_dim: 1539  # lyapunov(1) + entropy(1) + h_mean(768) + h_std(768) + h_norm_mean(1)
+  hidden_dim: 8    # 进一步减小
+  output_dim: 1
+  num_layers: 1
+  dropout: 0.5
+
+# 内存管理配置
+memory:
+  # GPU内存管理
+  max_gpu_usage: 3.0  # GB，提高阈值减少频繁清理
+  cleanup_interval: 5  # 每5步检查一次
+  force_cleanup_threshold: 3.0  # GB
+  
+  # CPU内存管理
+  max_cpu_usage: 85  # 百分比
+  gc_interval: 10    # 每10步执行垃圾回收
+  
+  # CUDA配置
+  cuda_alloc_conf: "max_split_size_mb:32"
+  cuda_launch_blocking: true
+
+# 损失函数权重
+loss_weights:
+  ce_weight: 1.0
+  path_norm_weight: 1.0
+  entropy_weight: 1.0
+  chaos_weight: 1.0
+  coherence_weight: 0.1
+  thermodynamic_weight: 0.1
+
+# 正则化参数
+regularization:
+  # Path-Norm正则化
+  target_fractal_dim: 2.7
+  path_norm_weight: 1.0
+  temperature: 1.0
+  
+  # 熵正则化
+  beta: 1.0
+  gamma: 0.1
+  target_entropy: 0.0
+  
+  # 混沌正则化
+  target_lyapunov: 0.0
+  chaos_weight: 1.0
+  stability_threshold: 0.1
+
+# 评估配置
+evaluation:
+  # 连贯性评估
+  coherence_eval_interval: 100
+  
+  # 长程依赖测试
+  long_range_test_interval: 200
+  
+  # 热力学效率
+  thermo_eval_interval: 50
+
+# 日志配置
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "eitp_training.log"
+  max_file_size: "10MB"
+  backup_count: 5
+
+# 监控配置
+monitoring:
+  # 系统监控
+  cpu_threshold: 90
+  memory_threshold: 85
+  gpu_threshold: 95
+  
+  # 训练监控
+  loss_threshold: 1000.0  # 损失值告警阈值
+  grad_norm_threshold: 10.0  # 梯度范数告警阈值
+  
+  # 检查间隔
+  check_interval: 5  # 秒
+
+# 安全配置
+safety:
+  # 资源限制
+  max_training_time: 3600  # 最大训练时间(秒)
+  max_memory_growth: 2.0   # 最大内存增长倍数
+  
+  # 自动恢复
+  auto_resume: true
+  checkpoint_interval: 100
+  
+  # 错误处理
+  max_retries: 3
+  retry_delay: 30  # 秒
