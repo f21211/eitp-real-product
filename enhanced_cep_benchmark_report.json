@@ -1,0 +1,446 @@
+{
+  "summary": {
+    "total_benchmarks": 5,
+    "timestamp": "2025-10-07 17:45:19",
+    "framework": "Enhanced CEP-EIT-P",
+    "version": "2.0.0",
+    "inference_performance": {
+      "max_throughput": 41585.66320681642,
+      "best_configuration": "Small (batch 64)"
+    },
+    "consciousness_performance": {
+      "average_constraint_satisfaction": 0.0
+    },
+    "scalability_performance": {
+      "max_consciousness_level": 2
+    }
+  },
+  "detailed_results": {
+    "inference_speed": {
+      "Small": {
+        "1": {
+          "avg_time": 0.0006335258483886718,
+          "std_time": 4.703035971501484e-05,
+          "throughput": 1578.4675598374229,
+          "consciousness_level": 2
+        },
+        "8": {
+          "avg_time": 0.001063060760498047,
+          "std_time": 0.0002710528555242002,
+          "throughput": 7525.440028707275,
+          "consciousness_level": 2
+        },
+        "16": {
+          "avg_time": 0.0011487007141113281,
+          "std_time": 0.00024103186822355658,
+          "throughput": 13928.780406807804,
+          "consciousness_level": 2
+        },
+        "32": {
+          "avg_time": 0.0011880874633789062,
+          "std_time": 0.00016616070713347062,
+          "throughput": 26934.043987799007,
+          "consciousness_level": 2
+        },
+        "64": {
+          "avg_time": 0.001538991928100586,
+          "std_time": 0.00025203832324632104,
+          "throughput": 41585.66320681642,
+          "consciousness_level": 2
+        }
+      },
+      "Medium": {
+        "1": {
+          "avg_time": 0.0008464813232421875,
+          "std_time": 4.844548193944992e-05,
+          "throughput": 1181.3609734114466,
+          "consciousness_level": 2
+        },
+        "8": {
+          "avg_time": 0.001016521453857422,
+          "std_time": 3.9886395075630445e-05,
+          "throughput": 7869.97654564218,
+          "consciousness_level": 2
+        },
+        "16": {
+          "avg_time": 0.0011014461517333985,
+          "std_time": 3.1432358955111044e-05,
+          "throughput": 14526.356985150871,
+          "consciousness_level": 2
+        },
+        "32": {
+          "avg_time": 0.0013640880584716796,
+          "std_time": 1.498407186158602e-05,
+          "throughput": 23458.89607438739,
+          "consciousness_level": 2
+        },
+        "64": {
+          "avg_time": 0.0016856670379638671,
+          "std_time": 6.648662774354757e-05,
+          "throughput": 37967.16585103675,
+          "consciousness_level": 2
+        }
+      },
+      "Large": {
+        "1": {
+          "avg_time": 0.00034723281860351565,
+          "std_time": 0.00010196787740538105,
+          "throughput": 2879.912112057127,
+          "consciousness_level": 2
+        },
+        "8": {
+          "avg_time": 0.0005795001983642578,
+          "std_time": 2.146593570535038e-05,
+          "throughput": 13804.999588578952,
+          "consciousness_level": 2
+        },
+        "16": {
+          "avg_time": 0.0008038043975830078,
+          "std_time": 2.9321259294902928e-05,
+          "throughput": 19905.340214747583,
+          "consciousness_level": 2
+        },
+        "32": {
+          "avg_time": 0.0012493133544921875,
+          "std_time": 9.371421284271626e-05,
+          "throughput": 25614.070229007633,
+          "consciousness_level": 2
+        },
+        "64": {
+          "avg_time": 0.0020206928253173827,
+          "std_time": 0.00010107514891651396,
+          "throughput": 31672.305259928737,
+          "consciousness_level": 2
+        }
+      }
+    },
+    "memory_usage": {
+      "Small": {
+        "model_size": 0.0,
+        "batch_memory": {
+          "1": 0.0,
+          "8": 0.0,
+          "16": 0.0,
+          "32": 0.0,
+          "64": 0.0
+        },
+        "total_params": 567434
+      },
+      "Medium": {
+        "model_size": 4.25,
+        "batch_memory": {
+          "1": 0.0,
+          "8": 0.0,
+          "16": 0.0,
+          "32": 0.0,
+          "64": 0.0
+        },
+        "total_params": 1317396
+      },
+      "Large": {
+        "model_size": 20.0,
+        "batch_memory": {
+          "1": 0.0,
+          "8": 0.0,
+          "16": 0.0,
+          "32": 0.0,
+          "64": 0.0
+        },
+        "total_params": 5271602
+      }
+    },
+    "consciousness_accuracy": {
+      "Low": {
+        "expected_level": 1,
+        "actual_level": 2.0,
+        "std_level": 0.0,
+        "constraint_rate": 0.0,
+        "fractal_dimension": 2.5,
+        "complexity_coefficient": 0.7
+      },
+      "Medium": {
+        "expected_level": 2,
+        "actual_level": 2.0,
+        "std_level": 0.0,
+        "constraint_rate": 0.0,
+        "fractal_dimension": 2.7,
+        "complexity_coefficient": 0.8
+      },
+      "High": {
+        "expected_level": 3,
+        "actual_level": 2.0,
+        "std_level": 0.0,
+        "constraint_rate": 0.0,
+        "fractal_dimension": 2.9,
+        "complexity_coefficient": 0.9
+      },
+      "Maximum": {
+        "expected_level": 4,
+        "actual_level": 2.0,
+        "std_level": 0.0,
+        "constraint_rate": 0.0,
+        "fractal_dimension": 3.0,
+        "complexity_coefficient": 1.0
+      }
+    },
+    "energy_efficiency": {
+      "0.1": {
+        "1": {
+          "total_energy": 6.69049561326551e+16,
+          "mass_energy": 6.69049561326551e+16,
+          "field_energy": 1.008378080024463e-19,
+          "entropy_energy": -6.6594696044921875,
+          "iem_energy": 1.622478723526001,
+          "efficiency": 1.0
+        },
+        "8": {
+          "total_energy": 8.325572482983526e+16,
+          "mass_energy": 8.325572482983526e+16,
+          "field_energy": 6.891467219143165e-20,
+          "entropy_energy": -6.659286975860596,
+          "iem_energy": 0.5590044856071472,
+          "efficiency": 1.0
+        },
+        "16": {
+          "total_energy": 1.0247584950832333e+17,
+          "mass_energy": 1.0247584950832333e+17,
+          "field_energy": 5.990564134496349e-20,
+          "entropy_energy": -6.659490585327148,
+          "iem_energy": 0.44379252195358276,
+          "efficiency": 1.0
+        },
+        "32": {
+          "total_energy": -3.048813888326861e+16,
+          "mass_energy": -3.048813888326861e+16,
+          "field_energy": 7.381072838773888e-20,
+          "entropy_energy": -6.587423324584961,
+          "iem_energy": 0.3804665207862854,
+          "efficiency": 1.0
+        },
+        "64": {
+          "total_energy": -6163462753353728.0,
+          "mass_energy": -6163462753353728.0,
+          "field_energy": 7.263221573470102e-20,
+          "entropy_energy": -6.659420967102051,
+          "iem_energy": 0.5938554406166077,
+          "efficiency": 1.0
+        }
+      },
+      "0.3": {
+        "1": {
+          "total_energy": 5.998589782177874e+17,
+          "mass_energy": 5.998589782177874e+17,
+          "field_energy": 3.527013862901206e-19,
+          "entropy_energy": -6.619178295135498,
+          "iem_energy": 0.05312636122107506,
+          "efficiency": 1.0
+        },
+        "8": {
+          "total_energy": 2.692404359504855e+17,
+          "mass_energy": 2.692404359504855e+17,
+          "field_energy": 3.786895399801585e-19,
+          "entropy_energy": -6.619973659515381,
+          "iem_energy": 0.26000815629959106,
+          "efficiency": 1.0
+        },
+        "16": {
+          "total_energy": -1.5453369640419328e+17,
+          "mass_energy": -1.5453369640419328e+17,
+          "field_energy": 3.6130928623828885e-19,
+          "entropy_energy": -6.6202168464660645,
+          "iem_energy": 0.584551215171814,
+          "efficiency": 1.0
+        },
+        "32": {
+          "total_energy": 1.5920955857987174e+17,
+          "mass_energy": 1.5920955857987174e+17,
+          "field_energy": 3.899734467581182e-19,
+          "entropy_energy": -6.61991024017334,
+          "iem_energy": 0.6918898820877075,
+          "efficiency": 1.0
+        },
+        "64": {
+          "total_energy": 1.0611362667849318e+17,
+          "mass_energy": 1.0611362667849318e+17,
+          "field_energy": 3.7599582631537957e-19,
+          "entropy_energy": -6.619619369506836,
+          "iem_energy": 0.5976791381835938,
+          "efficiency": 1.0
+        }
+      },
+      "0.5": {
+        "1": {
+          "total_energy": -1.6258904500679475e+18,
+          "mass_energy": -1.6258904500679475e+18,
+          "field_energy": 7.092601225717291e-19,
+          "entropy_energy": -6.539100170135498,
+          "iem_energy": 0.12360820919275284,
+          "efficiency": 1.0
+        },
+        "8": {
+          "total_energy": 4.3018399308683674e+17,
+          "mass_energy": 4.3018399308683674e+17,
+          "field_energy": 6.829254836026081e-19,
+          "entropy_energy": -6.538884162902832,
+          "iem_energy": 0.39008885622024536,
+          "efficiency": 1.0
+        },
+        "16": {
+          "total_energy": -2.0025214580136346e+17,
+          "mass_energy": -2.0025214580136346e+17,
+          "field_energy": 6.961064515672757e-19,
+          "entropy_energy": -6.539775848388672,
+          "iem_energy": 0.4598059356212616,
+          "efficiency": 1.0
+        },
+        "32": {
+          "total_energy": -1.8533282098446336e+17,
+          "mass_energy": -1.8533282098446336e+17,
+          "field_energy": 6.76052801784423e-19,
+          "entropy_energy": -6.540821075439453,
+          "iem_energy": 0.48120564222335815,
+          "efficiency": 1.0
+        },
+        "64": {
+          "total_energy": 2.8123213925974016e+16,
+          "mass_energy": 2.8123213925974016e+16,
+          "field_energy": 6.843816833722194e-19,
+          "entropy_energy": -6.539503574371338,
+          "iem_energy": 0.6322420835494995,
+          "efficiency": 1.0
+        }
+      },
+      "0.7": {
+        "1": {
+          "total_energy": 2.1866622709546353e+18,
+          "mass_energy": 2.1866622709546353e+18,
+          "field_energy": 4.892939793349435e-19,
+          "entropy_energy": -6.436433792114258,
+          "iem_energy": 0.02723752148449421,
+          "efficiency": 1.0
+        },
+        "8": {
+          "total_energy": 1.168786357884027e+18,
+          "mass_energy": 1.168786357884027e+18,
+          "field_energy": 7.186919978075768e-19,
+          "entropy_energy": -6.413185119628906,
+          "iem_energy": 0.5779204368591309,
+          "efficiency": 1.0
+        },
+        "16": {
+          "total_energy": -6.567089520540385e+17,
+          "mass_energy": -6.567089520540385e+17,
+          "field_energy": 7.543949742017437e-19,
+          "entropy_energy": -6.419600486755371,
+          "iem_energy": 0.44470691680908203,
+          "efficiency": 1.0
+        },
+        "32": {
+          "total_energy": 2.5433750072878694e+17,
+          "mass_energy": 2.5433750072878694e+17,
+          "field_energy": 8.348035988855867e-19,
+          "entropy_energy": -6.424689292907715,
+          "iem_energy": 0.5629302263259888,
+          "efficiency": 1.0
+        },
+        "64": {
+          "total_energy": 1.8511004962075443e+17,
+          "mass_energy": 1.8511004962075443e+17,
+          "field_energy": 7.852142762593975e-19,
+          "entropy_energy": -6.419221878051758,
+          "iem_energy": 0.607699990272522,
+          "efficiency": 1.0
+        }
+      },
+      "0.9": {
+        "1": {
+          "total_energy": -2.5638711753399337e+18,
+          "mass_energy": -2.5638711753399337e+18,
+          "field_energy": 6.565526909277331e-19,
+          "entropy_energy": -6.2372236251831055,
+          "iem_energy": 1.291835069656372,
+          "efficiency": 1.0
+        },
+        "8": {
+          "total_energy": -1.1122271361538458e+18,
+          "mass_energy": -1.1122271361538458e+18,
+          "field_energy": 1.0964894234970968e-18,
+          "entropy_energy": -6.251371383666992,
+          "iem_energy": 0.5111457109451294,
+          "efficiency": 1.0
+        },
+        "16": {
+          "total_energy": 3.89422073388204e+17,
+          "mass_energy": 3.89422073388204e+17,
+          "field_energy": 9.09481464586874e-19,
+          "entropy_energy": -6.261653900146484,
+          "iem_energy": 0.4202367961406708,
+          "efficiency": 1.0
+        },
+        "32": {
+          "total_energy": 6.997959952480338e+17,
+          "mass_energy": 6.997959952480338e+17,
+          "field_energy": 1.06281107504973e-18,
+          "entropy_energy": -6.251492977142334,
+          "iem_energy": 0.5203229784965515,
+          "efficiency": 1.0
+        },
+        "64": {
+          "total_energy": -2.7273753576184218e+17,
+          "mass_energy": -2.7273753576184218e+17,
+          "field_energy": 1.0352534495449493e-18,
+          "entropy_energy": -6.261325836181641,
+          "iem_energy": 0.5481414794921875,
+          "efficiency": 1.0
+        }
+      }
+    },
+    "scalability": {
+      "Tiny": {
+        "parameters": 41802,
+        "inference_time": 0.0008530139923095704,
+        "throughput": 37514.03879479009,
+        "consciousness_level": 2
+      },
+      "Small": {
+        "parameters": 166804,
+        "inference_time": 0.0009409427642822265,
+        "throughput": 34008.444737242186,
+        "consciousness_level": 2
+      },
+      "Medium": {
+        "parameters": 668978,
+        "inference_time": 0.0011926651000976562,
+        "throughput": 26830.66687989765,
+        "consciousness_level": 2
+      },
+      "Large": {
+        "parameters": 2674276,
+        "inference_time": 0.0016566276550292968,
+        "throughput": 19316.35023890392,
+        "consciousness_level": 2
+      }
+    }
+  },
+  "recommendations": [
+    {
+      "type": "inference_optimization",
+      "configuration": "Small",
+      "recommendation": "Use batch size 64 for optimal throughput (41586 samples/s)"
+    },
+    {
+      "type": "inference_optimization",
+      "configuration": "Medium",
+      "recommendation": "Use batch size 64 for optimal throughput (37967 samples/s)"
+    },
+    {
+      "type": "inference_optimization",
+      "configuration": "Large",
+      "recommendation": "Use batch size 64 for optimal throughput (31672 samples/s)"
+    },
+    {
+      "type": "consciousness_optimization",
+      "recommendation": "Use Low configuration for best consciousness detection"
+    }
+  ]
+}
