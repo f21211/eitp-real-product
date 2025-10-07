@@ -1,16 +1,9 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 
 \bibitem{chen2018neural}
 Ricky~TQ Chen, Yulia Rubanova, Jesse Bettencourt, and David~K Duvenaud.
 \newblock Neural ordinary differential equations.
 \newblock {\em Advances in neural information processing systems}, 31, 2018.
-
-\bibitem{chen2025cep}
-Ziting Chen and Wenjun Chen.
-\newblock Modified mass-energy equation for complex systems: A unified
-  framework for intelligence, consciousness, and emergence.
-\newblock {\em arXiv preprint arXiv:2310.xxxxx}, 2025.
-\newblock Submitted to arXiv.
 
 \bibitem{duchi2011adaptive}
 John Duchi, Elad Hazan, and Yoram Singer.

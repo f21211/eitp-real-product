@@ -1,0 +1,1642 @@
+{
+  "optimization_time": 0.38520002365112305,
+  "best_result": {
+    "fractal_dimension": 2.758432899132505,
+    "complexity_coefficient": 0.7144741005861542,
+    "critical_temperature": 0.7375964936111707,
+    "field_strength": 1.8568676045419612,
+    "entropy_balance": 0.18156549609168,
+    "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.836994171142578, entropy_balance=2.223597110357668e-17, score=0.5392607621935466)"
+  },
+  "analysis": {
+    "total_trials": 200,
+    "score_stats": {
+      "mean": 0.5392607621935465,
+      "std": 1.1102230246251565e-16,
+      "min": 0.5392607621935466,
+      "max": 0.5392607621935466,
+      "median": 0.5392607621935466
+    },
+    "consciousness_level_stats": {
+      "mean": 2.0,
+      "std": 0.0,
+      "min": "2",
+      "max": "2",
+      "distribution": {
+        "0": 0,
+        "1": 0,
+        "2": 200,
+        "3": 0,
+        "4": 0
+      }
+    },
+    "constraint_satisfaction_stats": {
+      "mean": 0.5,
+      "std": 0.0,
+      "min": 0.5,
+      "max": 0.5
+    }
+  },
+  "all_results": [
+    {
+      "fractal_dimension": 2.758432899132505,
+      "complexity_coefficient": 0.7144741005861542,
+      "critical_temperature": 0.7375964936111707,
+      "field_strength": 1.8568676045419612,
+      "entropy_balance": 0.18156549609168,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.836994171142578, entropy_balance=2.223597110357668e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4794669152381847,
+      "complexity_coefficient": 1.072052778118786,
+      "critical_temperature": 0.7180763791626912,
+      "field_strength": 1.8522315759808976,
+      "entropy_balance": 0.19943635222792544,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.579652786254883, entropy_balance=2.164750645716366e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.844720021203192,
+      "complexity_coefficient": 1.0255156782659955,
+      "critical_temperature": 0.8214912888866616,
+      "field_strength": 1.168104743369612,
+      "entropy_balance": 0.06863103223472011,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.51961898803711, entropy_balance=2.476511078383746e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5286433997664273,
+      "complexity_coefficient": 0.8988253981571109,
+      "critical_temperature": 1.402654342552065,
+      "field_strength": 1.503569151409886,
+      "entropy_balance": -0.11605198103352748,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.775264739990234, entropy_balance=4.228515314798627e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.928651832928495,
+      "complexity_coefficient": 1.1726437722276102,
+      "critical_temperature": 1.0017715469232935,
+      "field_strength": 1.4722522282950001,
+      "entropy_balance": 0.09356232119498187,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.919824600219727, entropy_balance=3.019993155406765e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.343252349713986,
+      "complexity_coefficient": 0.5445530132503456,
+      "critical_temperature": 1.3752991294948882,
+      "field_strength": 1.134393075975409,
+      "entropy_balance": 0.07851515495053907,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.28398895263672, entropy_balance=4.1460487078637076e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5396220590854486,
+      "complexity_coefficient": 0.8345331835387833,
+      "critical_temperature": 1.8109565722007133,
+      "field_strength": 1.7339821693744475,
+      "entropy_balance": 0.1199778048564823,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.228164672851562, entropy_balance=5.4594046765919064e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.334969660651272,
+      "complexity_coefficient": 1.110720320798133,
+      "critical_temperature": 1.691674598918195,
+      "field_strength": 1.1133309928798774,
+      "entropy_balance": -0.12156423669069061,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.051353454589844, entropy_balance=5.0998116265855756e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0847076981401407,
+      "complexity_coefficient": 1.024722903402804,
+      "critical_temperature": 0.8441976391586019,
+      "field_strength": 0.6644308798523486,
+      "entropy_balance": 0.021915557323476526,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=21.076478958129883, entropy_balance=2.5449625611311478e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.973921122750763,
+      "complexity_coefficient": 0.652991867601465,
+      "critical_temperature": 1.1056085855937736,
+      "field_strength": 0.7884545062151072,
+      "entropy_balance": -0.009181965964242755,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.82720375061035, entropy_balance=3.3330256354744656e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3270380613369612,
+      "complexity_coefficient": 1.1827113823397495,
+      "critical_temperature": 1.4457396903202924,
+      "field_strength": 1.3207254977389171,
+      "entropy_balance": -0.06991451537062385,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.453136444091797, entropy_balance=4.358403028592746e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4026354765891895,
+      "complexity_coefficient": 1.1131004307213828,
+      "critical_temperature": 0.5177587065287247,
+      "field_strength": 1.333288485328966,
+      "entropy_balance": -0.1416318797568839,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.690624237060547, entropy_balance=1.5608627449747514e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.808211112556697,
+      "complexity_coefficient": 0.8311199713705204,
+      "critical_temperature": 0.9503927561168806,
+      "field_strength": 1.5687430332949104,
+      "entropy_balance": -0.18150191427193374,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.256298065185547, entropy_balance=2.8651037332746073e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0777468706275557,
+      "complexity_coefficient": 1.0640629990025134,
+      "critical_temperature": 1.277471199373185,
+      "field_strength": 1.1133944358309489,
+      "entropy_balance": -0.06897977427811161,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.318979263305664, entropy_balance=3.8511315436039747e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4244074303429564,
+      "complexity_coefficient": 0.5565138587201637,
+      "critical_temperature": 1.275986418026343,
+      "field_strength": 1.740934845426386,
+      "entropy_balance": 0.15157270258517347,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.04439353942871, entropy_balance=3.846655726336096e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.8580751457292113,
+      "complexity_coefficient": 0.7872932006437545,
+      "critical_temperature": 1.8951994705697286,
+      "field_strength": 0.9744351234889752,
+      "entropy_balance": 0.1383834575755944,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.0676212310791, entropy_balance=5.713367227380659e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3291688353756275,
+      "complexity_coefficient": 1.0423158619201125,
+      "critical_temperature": 1.171055018609175,
+      "field_strength": 1.8740738957137097,
+      "entropy_balance": -0.012281430536556753,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.05650520324707, entropy_balance=3.5303239388602376e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6601850703951193,
+      "complexity_coefficient": 0.5975020367978675,
+      "critical_temperature": 0.9044055833439608,
+      "field_strength": 1.7635147050725417,
+      "entropy_balance": 0.053409414220970786,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.540769577026367, entropy_balance=2.7264687420742564e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.237431377503443,
+      "complexity_coefficient": 1.190326130281612,
+      "critical_temperature": 1.5713098518833406,
+      "field_strength": 1.516189478111493,
+      "entropy_balance": -0.11634992205469206,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.353208541870117, entropy_balance=4.736953056837884e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3921318057010255,
+      "complexity_coefficient": 0.7821299377297932,
+      "critical_temperature": 0.9206718964495786,
+      "field_strength": 0.7520051467298569,
+      "entropy_balance": -0.08158713519156531,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.701799392700195, entropy_balance=2.7755058314799326e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.890878538906728,
+      "complexity_coefficient": 1.0853900034504218,
+      "critical_temperature": 1.554162163810231,
+      "field_strength": 0.6829358954182413,
+      "entropy_balance": -0.025161480577404693,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.34426498413086, entropy_balance=4.6852583926748066e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.954648162434893,
+      "complexity_coefficient": 0.6584239709281712,
+      "critical_temperature": 1.8943943015221067,
+      "field_strength": 0.9208477652547102,
+      "entropy_balance": 0.13675896024337664,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.723590850830078, entropy_balance=5.710940573849438e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.819402803528966,
+      "complexity_coefficient": 0.6894353503110995,
+      "critical_temperature": 1.3093195920798295,
+      "field_strength": 0.8893860931603982,
+      "entropy_balance": -0.020903223657287306,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.813987731933594, entropy_balance=3.947143742667126e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.979002564910422,
+      "complexity_coefficient": 0.826651501251092,
+      "critical_temperature": 1.7734665363075917,
+      "field_strength": 1.8465728884616073,
+      "entropy_balance": -0.02244400931842558,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.92886734008789, entropy_balance=5.346386096246914e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.655161911584662,
+      "complexity_coefficient": 0.7845636803728258,
+      "critical_temperature": 1.3760835865814283,
+      "field_strength": 0.6063974684699835,
+      "entropy_balance": 0.0106296874909316,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.852874755859375, entropy_balance=4.148413844539518e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.8365272237474692,
+      "complexity_coefficient": 0.966148248098611,
+      "critical_temperature": 0.8248208092734728,
+      "field_strength": 1.7521471104876116,
+      "entropy_balance": 0.07845727576485556,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.697444915771484, entropy_balance=2.4865483456064594e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.509661226891741,
+      "complexity_coefficient": 1.0153202980760792,
+      "critical_temperature": 1.4392481746752142,
+      "field_strength": 0.9026158052535622,
+      "entropy_balance": -0.009573950862784425,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.99268341064453, entropy_balance=4.3388332119837526e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5561305660267015,
+      "complexity_coefficient": 0.7829626173057842,
+      "critical_temperature": 1.9923963346153737,
+      "field_strength": 0.9264042264108305,
+      "entropy_balance": 0.025662334056943598,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.79366111755371, entropy_balance=6.006383194582467e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.658335384331953,
+      "complexity_coefficient": 0.5979401710010264,
+      "critical_temperature": 1.3519994170107523,
+      "field_strength": 0.5290966173375544,
+      "entropy_balance": -0.1903751326806687,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.240989685058594, entropy_balance=4.0758081099047906e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.209661116148529,
+      "complexity_coefficient": 0.7530450445528557,
+      "critical_temperature": 0.852341317226645,
+      "field_strength": 1.881220508054611,
+      "entropy_balance": 0.05557100962587769,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.745412826538086, entropy_balance=2.569512679826062e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7985650252842946,
+      "complexity_coefficient": 0.6272738524548077,
+      "critical_temperature": 1.0427781290177207,
+      "field_strength": 1.9809721849256126,
+      "entropy_balance": -0.1661206207383252,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.685047149658203, entropy_balance=3.1436138395559653e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6354581982493315,
+      "complexity_coefficient": 0.7873265290339853,
+      "critical_temperature": 1.1692736040380018,
+      "field_strength": 1.7510972477607956,
+      "entropy_balance": 0.07557556705625917,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.88982582092285, entropy_balance=3.524953563986601e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.073765413522243,
+      "complexity_coefficient": 0.6834806227756158,
+      "critical_temperature": 1.970509296058793,
+      "field_strength": 0.7538627900155979,
+      "entropy_balance": -0.08209140224272474,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.002925872802734, entropy_balance=5.940400308676793e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4321902900434775,
+      "complexity_coefficient": 1.16703514825948,
+      "critical_temperature": 0.9033191538654602,
+      "field_strength": 1.1381040092134826,
+      "entropy_balance": 0.11110542965465742,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.846923828125, entropy_balance=2.723193435560444e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0178292420410378,
+      "complexity_coefficient": 0.9045916306603009,
+      "critical_temperature": 0.7580265909685786,
+      "field_strength": 1.3860492223765855,
+      "entropy_balance": -0.1576762687311274,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.26805305480957, entropy_balance=2.285186667506127e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.920162228622366,
+      "complexity_coefficient": 1.160819235449873,
+      "critical_temperature": 1.2261389938920146,
+      "field_strength": 1.1919338386098854,
+      "entropy_balance": 0.08443839383903884,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.221981048583984, entropy_balance=3.6963828645804067e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.533827194400949,
+      "complexity_coefficient": 0.5643819973920311,
+      "critical_temperature": 1.6406646760778625,
+      "field_strength": 0.7719137934425562,
+      "entropy_balance": -0.15420927798068576,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.066490173339844, entropy_balance=4.9460339352002444e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0322055579439224,
+      "complexity_coefficient": 0.6591760762172374,
+      "critical_temperature": 1.9967809186035932,
+      "field_strength": 1.924633563666157,
+      "entropy_balance": 0.09583152694163316,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.54642677307129, entropy_balance=6.019600463796784e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.904021200589389,
+      "complexity_coefficient": 0.9293857090071848,
+      "critical_temperature": 1.5137274002384604,
+      "field_strength": 0.9913787740566631,
+      "entropy_balance": -0.06324039591391087,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.599809646606445, entropy_balance=4.5633622776426194e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6585172021176326,
+      "complexity_coefficient": 1.1448220193170555,
+      "critical_temperature": 1.0348900420756497,
+      "field_strength": 1.6176489803212064,
+      "entropy_balance": -0.04062630231864711,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.849557876586914, entropy_balance=3.1198338466456376e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3541550515129037,
+      "complexity_coefficient": 0.7538063011124214,
+      "critical_temperature": 1.975484995141446,
+      "field_strength": 1.1614329177415659,
+      "entropy_balance": 0.09607331048252954,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.677812576293945, entropy_balance=5.955401100661225e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.966124067055398,
+      "complexity_coefficient": 1.1231929928661284,
+      "critical_temperature": 1.9473357483296225,
+      "field_strength": 1.2029809709625627,
+      "entropy_balance": -0.111561934619818,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.17700958251953, entropy_balance=5.870540928806706e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1848247887634415,
+      "complexity_coefficient": 0.524717522998907,
+      "critical_temperature": 0.9604935041419957,
+      "field_strength": 1.6097660049024183,
+      "entropy_balance": 0.009534686817955468,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.5955753326416, entropy_balance=2.895554110665896e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3422618299765756,
+      "complexity_coefficient": 0.9474752431426601,
+      "critical_temperature": 0.773289069268214,
+      "field_strength": 1.4859948414034614,
+      "entropy_balance": -0.18106066404379384,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=21.048099517822266, entropy_balance=2.3311980130955077e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5772967862399807,
+      "complexity_coefficient": 0.8576703582525387,
+      "critical_temperature": 1.8318931178540283,
+      "field_strength": 1.5059133928688428,
+      "entropy_balance": -0.08294600251336726,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.354366302490234, entropy_balance=5.52252097024282e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.9755859142653756,
+      "complexity_coefficient": 0.6350274854321045,
+      "critical_temperature": 1.2238098042005214,
+      "field_strength": 1.8170191953143964,
+      "entropy_balance": -0.149079689575255,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.645326614379883, entropy_balance=3.689361554401537e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.8031689104842483,
+      "complexity_coefficient": 0.6318809595055946,
+      "critical_temperature": 1.987481258766342,
+      "field_strength": 1.5947634830043058,
+      "entropy_balance": -0.165813443175994,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.32356834411621, entropy_balance=5.991564622980349e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2662809316736143,
+      "complexity_coefficient": 0.8144044426657728,
+      "critical_temperature": 1.2783606196427866,
+      "field_strength": 1.4563222828436926,
+      "entropy_balance": -0.1408385223651926,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.660322189331055, entropy_balance=3.8538128862373295e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.351935320297652,
+      "complexity_coefficient": 1.1191796905652636,
+      "critical_temperature": 0.5385629089377258,
+      "field_strength": 0.5439539629540426,
+      "entropy_balance": 0.06273915788346296,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.253570556640625, entropy_balance=1.623579994629869e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1923516209632283,
+      "complexity_coefficient": 0.6939514641003789,
+      "critical_temperature": 1.7241795665665252,
+      "field_strength": 1.5964938776946846,
+      "entropy_balance": 0.057150058363270806,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.7390193939209, entropy_balance=5.197802850849481e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.9364873043934763,
+      "complexity_coefficient": 0.5484581093617924,
+      "critical_temperature": 1.9295708126009525,
+      "field_strength": 1.341126818297257,
+      "entropy_balance": 0.01613968373597946,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.857378005981445, entropy_balance=5.816985845804252e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.639875097576562,
+      "complexity_coefficient": 1.007724111344614,
+      "critical_temperature": 1.3341559508819862,
+      "field_strength": 0.7315697496899067,
+      "entropy_balance": 0.0296090187768335,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=17.98835563659668, entropy_balance=4.022016280216364e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7761369596655827,
+      "complexity_coefficient": 0.8584756142818273,
+      "critical_temperature": 1.0974378895413346,
+      "field_strength": 1.57333974833839,
+      "entropy_balance": 0.06807248949685146,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.137237548828125, entropy_balance=3.3083937273240626e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.042748386053609,
+      "complexity_coefficient": 0.7996331605263987,
+      "critical_temperature": 1.315259173658034,
+      "field_strength": 1.4167019783059918,
+      "entropy_balance": -0.14800288359799782,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.77737045288086, entropy_balance=3.9650493419225586e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1258289014890246,
+      "complexity_coefficient": 1.1837539426562156,
+      "critical_temperature": 1.4478392410174568,
+      "field_strength": 1.3176964382329481,
+      "entropy_balance": 0.012706921144715444,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.756118774414062, entropy_balance=4.36473227414825e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4445869658705046,
+      "complexity_coefficient": 1.078447001311777,
+      "critical_temperature": 1.1705444425022207,
+      "field_strength": 1.0978156671276302,
+      "entropy_balance": -0.1497501757683649,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=21.090892791748047, entropy_balance=3.5287843863462396e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6466423486168655,
+      "complexity_coefficient": 1.0914006754877088,
+      "critical_temperature": 0.8977510240384972,
+      "field_strength": 1.621965617394956,
+      "entropy_balance": -0.13277146880336144,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.86674690246582, entropy_balance=2.7064070236403728e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2147623155006806,
+      "complexity_coefficient": 1.030501143261647,
+      "critical_temperature": 1.1216560430452471,
+      "field_strength": 1.7041480575639019,
+      "entropy_balance": 0.14565594652769187,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.31943130493164, entropy_balance=3.3814023507580484e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.613042187321422,
+      "complexity_coefficient": 0.7346325713941021,
+      "critical_temperature": 0.7934737594979859,
+      "field_strength": 0.8574674368946335,
+      "entropy_balance": 0.17708312430719364,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.37770652770996, entropy_balance=2.392047736850302e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.9799159087342004,
+      "complexity_coefficient": 1.1516286137586254,
+      "critical_temperature": 1.2389177020943223,
+      "field_strength": 1.545077875118671,
+      "entropy_balance": 0.185841261874638,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.368854522705078, entropy_balance=3.734906397170723e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.382584844194738,
+      "complexity_coefficient": 0.7453163482066945,
+      "critical_temperature": 0.6105268395284992,
+      "field_strength": 1.440688776067634,
+      "entropy_balance": -0.002212171477666447,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.8529109954834, entropy_balance=1.8405262922950516e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.361617054098604,
+      "complexity_coefficient": 0.880910255859774,
+      "critical_temperature": 0.8536962705045086,
+      "field_strength": 0.7972227469728622,
+      "entropy_balance": 0.005991371820489949,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.871246337890625, entropy_balance=2.5735977252510508e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0053639931797167,
+      "complexity_coefficient": 1.1814014038899117,
+      "critical_temperature": 0.7700599584542674,
+      "field_strength": 1.1814705218104646,
+      "entropy_balance": -0.14072995769422103,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=18.884262084960938, entropy_balance=2.3214629707268362e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.827848749488195,
+      "complexity_coefficient": 1.0606461749697784,
+      "critical_temperature": 1.2441915739982614,
+      "field_strength": 1.7595318048367625,
+      "entropy_balance": -0.19260220872277722,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.440031051635742, entropy_balance=3.750805009018397e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.754726287915932,
+      "complexity_coefficient": 0.950994483268685,
+      "critical_temperature": 1.283837298171747,
+      "field_strength": 1.0861061860402292,
+      "entropy_balance": -0.02884008846036687,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.963516235351562, entropy_balance=3.870321074197705e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.996481625728519,
+      "complexity_coefficient": 0.7522605546051903,
+      "critical_temperature": 0.9043266959655006,
+      "field_strength": 0.7401670714603522,
+      "entropy_balance": 0.09979055436338408,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.923255920410156, entropy_balance=2.7262305972779332e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.778482943330965,
+      "complexity_coefficient": 0.9983809579484244,
+      "critical_temperature": 1.246204051346111,
+      "field_strength": 1.3497634375481202,
+      "entropy_balance": -0.06928240153604201,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.668048858642578, entropy_balance=3.756872108883232e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.660556722779221,
+      "complexity_coefficient": 0.5369558659807739,
+      "critical_temperature": 1.9472395428062603,
+      "field_strength": 0.9243301706359996,
+      "entropy_balance": 0.0016021633617573916,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.31129264831543, entropy_balance=5.870250587890641e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.111246457401746,
+      "complexity_coefficient": 0.797087587143948,
+      "critical_temperature": 0.6968470844539507,
+      "field_strength": 0.7028760043986101,
+      "entropy_balance": 0.08960018991204094,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=21.39683723449707, entropy_balance=2.100751911416064e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0182121661780488,
+      "complexity_coefficient": 0.7609056579514121,
+      "critical_temperature": 0.5902449332592725,
+      "field_strength": 1.326640085208001,
+      "entropy_balance": -0.14738994567732366,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.34137535095215, entropy_balance=1.779383431403492e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1841142291266085,
+      "complexity_coefficient": 1.1200663213050488,
+      "critical_temperature": 0.5133486651135375,
+      "field_strength": 1.5256431787710705,
+      "entropy_balance": -0.13908679075507246,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.63005828857422, entropy_balance=1.5475676476176032e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.9353585048150075,
+      "complexity_coefficient": 1.1598568336849957,
+      "critical_temperature": 1.8507814702921734,
+      "field_strength": 0.9689126893366917,
+      "entropy_balance": 0.17556723631846066,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.66501808166504, entropy_balance=5.579463208587104e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.884671355017233,
+      "complexity_coefficient": 0.8754961178295645,
+      "critical_temperature": 1.5620381044344072,
+      "field_strength": 1.5308347355627718,
+      "entropy_balance": -0.04432591272149353,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.47756576538086, entropy_balance=4.709002034716029e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1806751389392973,
+      "complexity_coefficient": 0.9223281188132462,
+      "critical_temperature": 1.6080364964594613,
+      "field_strength": 1.0844819103718886,
+      "entropy_balance": 0.09425912702422279,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.542938232421875, entropy_balance=4.8476708135831765e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3596603648676053,
+      "complexity_coefficient": 0.6258035043152548,
+      "critical_temperature": 1.3161000140070578,
+      "field_strength": 1.763886891520189,
+      "entropy_balance": 0.15270632240008492,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.963394165039062, entropy_balance=3.967584582024314e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.44363302998795,
+      "complexity_coefficient": 1.0252793365779094,
+      "critical_temperature": 1.421083151264472,
+      "field_strength": 1.4284966422271868,
+      "entropy_balance": 0.008412247728423028,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.001188278198242, entropy_balance=4.2840715597490476e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4612438328700623,
+      "complexity_coefficient": 0.9712718954812976,
+      "critical_temperature": 1.2054824578399985,
+      "field_strength": 0.7338849603713531,
+      "entropy_balance": -0.10435833569108643,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.188276290893555, entropy_balance=3.6341107965626425e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.878499092467142,
+      "complexity_coefficient": 1.0905357303767254,
+      "critical_temperature": 1.6651398389209517,
+      "field_strength": 1.257878990377136,
+      "entropy_balance": 0.12763604378394738,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.25779914855957, entropy_balance=5.019817810823435e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.498433528832013,
+      "complexity_coefficient": 0.5627541644985431,
+      "critical_temperature": 1.6687072532547107,
+      "field_strength": 0.9962467087109057,
+      "entropy_balance": 0.1699941591121567,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.280637741088867, entropy_balance=5.030572541674209e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.8269199895584793,
+      "complexity_coefficient": 0.6987263125375074,
+      "critical_temperature": 1.1683455923192059,
+      "field_strength": 1.9482727642280495,
+      "entropy_balance": 0.1658919645798434,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.029367446899414, entropy_balance=3.522155712157394e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4907800038700936,
+      "complexity_coefficient": 0.8555736841952748,
+      "critical_temperature": 1.35461169057632,
+      "field_strength": 1.901844633786954,
+      "entropy_balance": -0.07662695809911475,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.970399856567383, entropy_balance=4.083683665507653e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.173153429708188,
+      "complexity_coefficient": 0.755457053922755,
+      "critical_temperature": 0.9617343358946475,
+      "field_strength": 1.1675453402367992,
+      "entropy_balance": 0.1893653798228429,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.538597106933594, entropy_balance=2.8992949879263356e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.499590983911143,
+      "complexity_coefficient": 0.7321997869016519,
+      "critical_temperature": 1.886417308163357,
+      "field_strength": 1.8354209526015524,
+      "entropy_balance": -0.0006914017019837293,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.204120635986328, entropy_balance=5.686892143751866e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.685420123036225,
+      "complexity_coefficient": 0.8639957338616562,
+      "critical_temperature": 0.5612791978924836,
+      "field_strength": 1.673873297548639,
+      "entropy_balance": 0.13600401509890098,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.115333557128906, entropy_balance=1.6920615367498007e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.42985515516325,
+      "complexity_coefficient": 0.9866021272222574,
+      "critical_temperature": 1.0460043675486244,
+      "field_strength": 1.615208516377662,
+      "entropy_balance": -0.12758989470284954,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.193195343017578, entropy_balance=3.1533397942073605e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.850083409731269,
+      "complexity_coefficient": 1.1691631620136518,
+      "critical_temperature": 1.5502327457278,
+      "field_strength": 1.6759984238804029,
+      "entropy_balance": 0.15007758377912717,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.31616973876953, entropy_balance=4.67341313575085e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5701624902051403,
+      "complexity_coefficient": 0.5800206076872023,
+      "critical_temperature": 0.7766216699491111,
+      "field_strength": 1.5552244535658775,
+      "entropy_balance": -0.06854292987943436,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.22403335571289, entropy_balance=2.3412446010538895e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.473510746137463,
+      "complexity_coefficient": 1.1459311734270563,
+      "critical_temperature": 0.8755775236643566,
+      "field_strength": 1.2638037032711456,
+      "entropy_balance": 0.11587623546656445,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.429489135742188, entropy_balance=2.639561736666997e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.108826414033857,
+      "complexity_coefficient": 0.5984615083522753,
+      "critical_temperature": 1.122934709132373,
+      "field_strength": 1.55648218715301,
+      "entropy_balance": -0.02687125791426398,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.714759826660156, entropy_balance=3.3852581060855993e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.8022653896667054,
+      "complexity_coefficient": 1.1142880710822032,
+      "critical_temperature": 0.6715029763995457,
+      "field_strength": 1.5926075698749358,
+      "entropy_balance": -0.05726560485383567,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.798688888549805, entropy_balance=2.0243482100149292e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.511184646096668,
+      "complexity_coefficient": 0.9313157712438896,
+      "critical_temperature": 1.4938986885341388,
+      "field_strength": 1.8692373896969916,
+      "entropy_balance": 0.1997090535690575,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.676937103271484, entropy_balance=4.5035851375448453e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.411267332051286,
+      "complexity_coefficient": 0.53260216872613,
+      "critical_temperature": 1.2023986762464443,
+      "field_strength": 0.8466665593617363,
+      "entropy_balance": 0.025654168360950275,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.406251907348633, entropy_balance=3.6248142948071607e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.511393607040816,
+      "complexity_coefficient": 0.8948196046185815,
+      "critical_temperature": 1.560645585842964,
+      "field_strength": 0.6373732030722721,
+      "entropy_balance": 0.08526561283750833,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.19211196899414, entropy_balance=4.704804441407846e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.743870657247429,
+      "complexity_coefficient": 0.6617334504238717,
+      "critical_temperature": 1.4237615733583473,
+      "field_strength": 1.3779528495847082,
+      "entropy_balance": -0.04417259758379849,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.12730598449707, entropy_balance=4.292147045131993e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.9612744373353075,
+      "complexity_coefficient": 0.8859204084370239,
+      "critical_temperature": 1.8763566560151448,
+      "field_strength": 1.707672908761154,
+      "entropy_balance": 0.14540818004017297,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.6148681640625, entropy_balance=5.656562935924264e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.517905094413377,
+      "complexity_coefficient": 0.6147175331704919,
+      "critical_temperature": 1.076957903676579,
+      "field_strength": 1.4984493542917763,
+      "entropy_balance": 0.15072766438255902,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.271526336669922, entropy_balance=3.2466541063313454e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7033749308417168,
+      "complexity_coefficient": 1.1309115638612037,
+      "critical_temperature": 1.5882168470543512,
+      "field_strength": 1.393432669502002,
+      "entropy_balance": 0.12736790916986734,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.30777931213379, entropy_balance=4.787922101729191e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0247085031064733,
+      "complexity_coefficient": 0.5000943721466723,
+      "critical_temperature": 1.567215676998323,
+      "field_strength": 1.733981851858655,
+      "entropy_balance": 0.004992505900950878,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.627483367919922, entropy_balance=4.7246105386660286e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4039231964782517,
+      "complexity_coefficient": 0.7863348204248091,
+      "critical_temperature": 1.5069725559671419,
+      "field_strength": 1.2087154739916843,
+      "entropy_balance": -0.04974829013904625,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.2963924407959, entropy_balance=4.5429988003914777e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.471634609982695,
+      "complexity_coefficient": 1.0754755683441053,
+      "critical_temperature": 0.9056148380867926,
+      "field_strength": 1.1192039878004985,
+      "entropy_balance": -0.018101636467440146,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.44576644897461, entropy_balance=2.7301140817940968e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7190151149149813,
+      "complexity_coefficient": 0.6162536116651866,
+      "critical_temperature": 1.2554156967421242,
+      "field_strength": 1.4412509410233028,
+      "entropy_balance": -0.015640438561447034,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.690921783447266, entropy_balance=3.784642308733125e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0374325586392446,
+      "complexity_coefficient": 0.7843095345574025,
+      "critical_temperature": 1.5088247967886286,
+      "field_strength": 1.3104887873131745,
+      "entropy_balance": 0.08932516106551824,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.153879165649414, entropy_balance=4.5485823870935243e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4658357953956123,
+      "complexity_coefficient": 0.6498929541954849,
+      "critical_temperature": 1.623550747798471,
+      "field_strength": 1.6876934826573347,
+      "entropy_balance": 0.07248116077327166,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.399961471557617, entropy_balance=4.894441333092734e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0262378420261062,
+      "complexity_coefficient": 1.0035194101920668,
+      "critical_temperature": 1.9318780652571546,
+      "field_strength": 1.3100679896918452,
+      "entropy_balance": 0.19620264911709595,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.197805404663086, entropy_balance=5.823941444796661e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7813154133006477,
+      "complexity_coefficient": 0.7105953303582596,
+      "critical_temperature": 0.5686933839549396,
+      "field_strength": 0.879024752798423,
+      "entropy_balance": -0.019259998281848573,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.236438751220703, entropy_balance=1.7144130104097782e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6086842275527813,
+      "complexity_coefficient": 0.7416331283877005,
+      "critical_temperature": 1.0687140285547174,
+      "field_strength": 1.4279029699782089,
+      "entropy_balance": -0.17867757232144338,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.402801513671875, entropy_balance=3.2218012967456055e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.801542611943278,
+      "complexity_coefficient": 0.8822192016605853,
+      "critical_temperature": 1.1436613489272438,
+      "field_strength": 1.4597086376610124,
+      "entropy_balance": 0.16161105496632117,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=18.89868927001953, entropy_balance=3.44774152178464e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.054259454691898,
+      "complexity_coefficient": 0.6195588383673573,
+      "critical_temperature": 0.9060393308067352,
+      "field_strength": 1.3520247919561148,
+      "entropy_balance": 0.17426224606205531,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.63663101196289, entropy_balance=2.731394051819735e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.726319003395902,
+      "complexity_coefficient": 1.1489255741213296,
+      "critical_temperature": 0.746542699809111,
+      "field_strength": 0.9541813723158331,
+      "entropy_balance": -0.0550183999606047,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.444812774658203, entropy_balance=2.250566892032052e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.311678398891083,
+      "complexity_coefficient": 0.6028170152419333,
+      "critical_temperature": 1.9555932085977665,
+      "field_strength": 1.007326913150132,
+      "entropy_balance": -0.1801487785318507,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.327106475830078, entropy_balance=5.895434283592602e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0156741218824115,
+      "complexity_coefficient": 0.6523188660784871,
+      "critical_temperature": 1.9139450563978446,
+      "field_strength": 1.1905917675349054,
+      "entropy_balance": -0.174965156904487,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.604162216186523, entropy_balance=5.769879313773855e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.225634619537827,
+      "complexity_coefficient": 0.5066490358121688,
+      "critical_temperature": 1.4272459472532826,
+      "field_strength": 1.4445643433290822,
+      "entropy_balance": 0.007657258647409959,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.39095687866211, entropy_balance=4.3026505821565094e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.9887789497615924,
+      "complexity_coefficient": 0.9061462905664601,
+      "critical_temperature": 1.199261506233708,
+      "field_strength": 1.2377786790586915,
+      "entropy_balance": -0.12647275917245132,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.485837936401367, entropy_balance=3.615356544324618e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.832361927148504,
+      "complexity_coefficient": 1.170083790871928,
+      "critical_temperature": 1.9847947580907324,
+      "field_strength": 1.9744791192762872,
+      "entropy_balance": -0.012827297684882527,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.189788818359375, entropy_balance=5.983466301795016e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1181101808491003,
+      "complexity_coefficient": 1.186065482044861,
+      "critical_temperature": 1.3247692177567227,
+      "field_strength": 1.7236100697826415,
+      "entropy_balance": -0.04748050460671388,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.546615600585938, entropy_balance=3.9937189927644336e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2514388435174304,
+      "complexity_coefficient": 0.8119874890874289,
+      "critical_temperature": 0.797701935339993,
+      "field_strength": 1.0024914884172273,
+      "entropy_balance": 0.13699646550788602,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.15220832824707, entropy_balance=2.404794075894983e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5726261320542703,
+      "complexity_coefficient": 0.82815658531401,
+      "critical_temperature": 1.72113632378695,
+      "field_strength": 0.6276616256781494,
+      "entropy_balance": 0.1205922420808982,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.11682891845703, entropy_balance=5.18862798469447e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2579564486598205,
+      "complexity_coefficient": 0.5942992809227439,
+      "critical_temperature": 0.7729069691505175,
+      "field_strength": 1.2966148094265209,
+      "entropy_balance": 0.09132663264727192,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.810171127319336, entropy_balance=2.3300459701669157e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.839334889726745,
+      "complexity_coefficient": 1.0279345576482228,
+      "critical_temperature": 1.5728035271422622,
+      "field_strength": 1.2498790592011866,
+      "entropy_balance": 0.007463978036271746,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.384531021118164, entropy_balance=4.741455904239201e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6567204041846773,
+      "complexity_coefficient": 0.5679134612983547,
+      "critical_temperature": 1.1742209300547692,
+      "field_strength": 1.9536537000102392,
+      "entropy_balance": 0.06261478345831756,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.738237380981445, entropy_balance=3.457289916421556e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.454012167911307,
+      "complexity_coefficient": 0.8650569482723647,
+      "critical_temperature": 1.2685229361096784,
+      "field_strength": 0.6265889309926244,
+      "entropy_balance": -0.14241364340679985,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.725507736206055, entropy_balance=3.824155703451406e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.512855822233436,
+      "complexity_coefficient": 0.8381342379444104,
+      "critical_temperature": 0.5888845016279824,
+      "field_strength": 0.8707726367409887,
+      "entropy_balance": 0.030435869418378836,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.34812355041504, entropy_balance=1.7752820746910838e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0495766049292543,
+      "complexity_coefficient": 0.9144728993555238,
+      "critical_temperature": 1.6310574320112348,
+      "field_strength": 1.7504503248930756,
+      "entropy_balance": -0.10187036651761235,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.26265525817871, entropy_balance=4.9170716132583866e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0336801995286145,
+      "complexity_coefficient": 0.9567387910185248,
+      "critical_temperature": 1.2572372451170386,
+      "field_strength": 1.902467435088429,
+      "entropy_balance": 0.027769932495819882,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=18.905702590942383, entropy_balance=3.701716655566545e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.709608328502495,
+      "complexity_coefficient": 0.7011287014190621,
+      "critical_temperature": 1.5156048717417665,
+      "field_strength": 1.990487159360782,
+      "entropy_balance": -0.11258296463336022,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.332124710083008, entropy_balance=4.569021828340362e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.58876237480911,
+      "complexity_coefficient": 1.0507242093069826,
+      "critical_temperature": 1.6543507915149187,
+      "field_strength": 1.1427012034208026,
+      "entropy_balance": 0.03343431662592647,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.72083282470703, entropy_balance=4.9872926376724e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.247979504753201,
+      "complexity_coefficient": 1.0265221468620247,
+      "critical_temperature": 1.0509941233754252,
+      "field_strength": 0.6969335745801724,
+      "entropy_balance": 0.19491810424798156,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.81255340576172, entropy_balance=3.168382063465516e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0378806438509938,
+      "complexity_coefficient": 1.1733017999906281,
+      "critical_temperature": 1.0360838404323527,
+      "field_strength": 1.3502922621783355,
+      "entropy_balance": 0.18242003268748402,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.751483917236328, entropy_balance=3.123432582687137e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2746207381525383,
+      "complexity_coefficient": 0.7947230553817439,
+      "critical_temperature": 0.784029143577868,
+      "field_strength": 1.1038153745096335,
+      "entropy_balance": -0.12461636134459755,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.880428314208984, entropy_balance=2.3635754525862007e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3804347155431094,
+      "complexity_coefficient": 0.8103417510575395,
+      "critical_temperature": 0.5581257864301381,
+      "field_strength": 0.7378017616972452,
+      "entropy_balance": -0.04773346527968231,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.733720779418945, entropy_balance=1.681909041932389e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.836613318134636,
+      "complexity_coefficient": 0.8312595899431245,
+      "critical_temperature": 1.649425004424029,
+      "field_strength": 1.1385766308156131,
+      "entropy_balance": 0.04435117110298825,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.1164608001709, entropy_balance=4.9724433076425767e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7327255380879913,
+      "complexity_coefficient": 0.6110791656107242,
+      "critical_temperature": 0.6432701917345727,
+      "field_strength": 0.9070424105813935,
+      "entropy_balance": 0.1924853753673445,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.061687469482422, entropy_balance=1.939236145278977e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.731823147894468,
+      "complexity_coefficient": 0.59037280312159,
+      "critical_temperature": 0.652003017744593,
+      "field_strength": 0.7479733528069767,
+      "entropy_balance": -0.08354476654259108,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.82937240600586, entropy_balance=1.9655623301554704e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.609592791680692,
+      "complexity_coefficient": 0.724710739601142,
+      "critical_temperature": 0.6271179439943334,
+      "field_strength": 0.7620170629521865,
+      "entropy_balance": 0.17351284074296464,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.264820098876953, entropy_balance=1.8905426414918703e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.413408157566124,
+      "complexity_coefficient": 0.6494336218096853,
+      "critical_temperature": 1.751544432900699,
+      "field_strength": 1.0751508824487401,
+      "entropy_balance": 0.06809583202252956,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.64593505859375, entropy_balance=5.2802978860281894e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3485915196071954,
+      "complexity_coefficient": 0.5060595676859552,
+      "critical_temperature": 1.1684125829577943,
+      "field_strength": 1.7186878320676016,
+      "entropy_balance": 0.1737137375926256,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.06821632385254, entropy_balance=3.5223577391030026e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6138079686349496,
+      "complexity_coefficient": 1.061972606810833,
+      "critical_temperature": 1.753101875398033,
+      "field_strength": 0.8348753960370097,
+      "entropy_balance": 0.03084982626543492,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.463308334350586, entropy_balance=5.284992274547488e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0402649001437605,
+      "complexity_coefficient": 0.7306020314839798,
+      "critical_temperature": 0.5654264721893889,
+      "field_strength": 1.16306393300809,
+      "entropy_balance": -0.10549554961621387,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.62155532836914, entropy_balance=1.704564488084346e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2412852386536564,
+      "complexity_coefficient": 0.5869963337139416,
+      "critical_temperature": 0.9349943786991795,
+      "field_strength": 1.9478760526332146,
+      "entropy_balance": -0.09401825690568173,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.792755126953125, entropy_balance=2.8186832073893915e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6325585021726265,
+      "complexity_coefficient": 0.7391696299055927,
+      "critical_temperature": 0.8716972757996357,
+      "field_strength": 0.9483023261545929,
+      "entropy_balance": 0.13282577802034518,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.29791831970215, entropy_balance=2.6278642134033818e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4104190219690094,
+      "complexity_coefficient": 0.7127691332333218,
+      "critical_temperature": 1.796570312849907,
+      "field_strength": 1.6939657100600576,
+      "entropy_balance": -0.15716717212681697,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.375547409057617, entropy_balance=5.416034827490899e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1051664727534862,
+      "complexity_coefficient": 0.6297993642751327,
+      "critical_temperature": 0.5415507788657101,
+      "field_strength": 1.2900668714825283,
+      "entropy_balance": -0.16145594071494848,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.92754554748535, entropy_balance=1.6325873205612444e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.467093462897341,
+      "complexity_coefficient": 0.7242472497824234,
+      "critical_temperature": 0.9446955524653566,
+      "field_strength": 0.6971052974713599,
+      "entropy_balance": 0.006577024561840783,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.59623146057129, entropy_balance=2.847928879695563e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.805987957150472,
+      "complexity_coefficient": 1.186875872236068,
+      "critical_temperature": 1.654205572641402,
+      "field_strength": 1.523630194448584,
+      "entropy_balance": -0.031087055342107872,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.99338722229004, entropy_balance=4.986854563095994e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.483534911144928,
+      "complexity_coefficient": 0.5362874826039936,
+      "critical_temperature": 1.3590770148788232,
+      "field_strength": 1.3934908129863424,
+      "entropy_balance": 0.09586645403607591,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.976877212524414, entropy_balance=4.097144671959695e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5215444418996222,
+      "complexity_coefficient": 0.7985905046582591,
+      "critical_temperature": 1.1107596260099815,
+      "field_strength": 0.6778356656932847,
+      "entropy_balance": 0.1184480268591776,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.828716278076172, entropy_balance=3.3485539810977185e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.275704518443983,
+      "complexity_coefficient": 0.9260179326299065,
+      "critical_temperature": 1.6957049004427105,
+      "field_strength": 0.9293259993084605,
+      "entropy_balance": 0.08642730922781966,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.08991813659668, entropy_balance=5.1119612055290993e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5517267769632217,
+      "complexity_coefficient": 0.9036513052296422,
+      "critical_temperature": 0.6011428413891198,
+      "field_strength": 1.493851065439214,
+      "entropy_balance": -0.04305262583371405,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.221691131591797, entropy_balance=1.8122368109592435e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.9278863356821407,
+      "complexity_coefficient": 0.5333014476210678,
+      "critical_temperature": 0.5452175058634947,
+      "field_strength": 1.562059339925344,
+      "entropy_balance": -0.05648715852615607,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.98765754699707, entropy_balance=1.6436412470269688e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1818353025308843,
+      "complexity_coefficient": 1.1439887969314944,
+      "critical_temperature": 1.0843292733792387,
+      "field_strength": 1.9786330115681405,
+      "entropy_balance": -0.18881735146694362,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.505769729614258, entropy_balance=3.268875905256338e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.353968517083972,
+      "complexity_coefficient": 0.8729225800670513,
+      "critical_temperature": 0.5963787141639827,
+      "field_strength": 1.2892013940552525,
+      "entropy_balance": 0.07831253520728698,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.884584426879883, entropy_balance=1.797874722386476e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.195015676199641,
+      "complexity_coefficient": 0.8531881917865616,
+      "critical_temperature": 0.9415433153276649,
+      "field_strength": 1.8044145378164527,
+      "entropy_balance": 0.09448747626110077,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.927183151245117, entropy_balance=2.838426156663422e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.495444473793616,
+      "complexity_coefficient": 0.7756886840468497,
+      "critical_temperature": 1.3263553564507378,
+      "field_strength": 1.1959820755538286,
+      "entropy_balance": -0.10464687079586282,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.727134704589844, entropy_balance=3.99850053016223e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.593097723235226,
+      "complexity_coefficient": 0.5500874427574945,
+      "critical_temperature": 1.8080288316722661,
+      "field_strength": 1.8540350344761256,
+      "entropy_balance": 0.1549796431271121,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.002931594848633, entropy_balance=5.4505784059508866e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.552162053026213,
+      "complexity_coefficient": 0.7875698061422792,
+      "critical_temperature": 1.269780524699161,
+      "field_strength": 1.2972243192064292,
+      "entropy_balance": -0.10307325127786902,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.067598342895508, entropy_balance=3.8279471457028464e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.8965293432247514,
+      "complexity_coefficient": 0.8016000394175367,
+      "critical_temperature": 0.7799294406810892,
+      "field_strength": 0.5609815139108463,
+      "entropy_balance": 0.14267889270070266,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=21.002811431884766, entropy_balance=2.3512161570901422e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.1206706172924923,
+      "complexity_coefficient": 0.6326327095033204,
+      "critical_temperature": 1.5152482004711743,
+      "field_strength": 0.823974696293565,
+      "entropy_balance": -0.11949493222769446,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.49721908569336, entropy_balance=4.5679471475178164e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2635645717110204,
+      "complexity_coefficient": 0.8177548347434271,
+      "critical_temperature": 1.047812477171579,
+      "field_strength": 0.8440328734928806,
+      "entropy_balance": -0.115090968434984,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.447994232177734, entropy_balance=3.158790327407743e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.835755243021649,
+      "complexity_coefficient": 0.787713560420349,
+      "critical_temperature": 0.7821731386038772,
+      "field_strength": 1.2909418339957528,
+      "entropy_balance": -0.17694978135886702,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.911773681640625, entropy_balance=2.3579802149645688e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2128329616833255,
+      "complexity_coefficient": 0.7040126987578913,
+      "critical_temperature": 1.4489552457609145,
+      "field_strength": 1.328852385367164,
+      "entropy_balance": 0.13399465010107886,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.406091690063477, entropy_balance=4.368096593687694e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6565305384475018,
+      "complexity_coefficient": 0.6621477123333505,
+      "critical_temperature": 0.874837781525881,
+      "field_strength": 1.6744355868175085,
+      "entropy_balance": 0.10065827790497195,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.788230895996094, entropy_balance=2.6373317506583754e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.439944477411361,
+      "complexity_coefficient": 1.1042295649984393,
+      "critical_temperature": 0.6965671279454826,
+      "field_strength": 1.4853781629084672,
+      "entropy_balance": -0.02060007266459024,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.000431060791016, entropy_balance=2.099907685782915e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.9694487937219067,
+      "complexity_coefficient": 0.9994054935926487,
+      "critical_temperature": 1.5663723035633776,
+      "field_strength": 0.5304542906367459,
+      "entropy_balance": -0.14641564898287132,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.593914031982422, entropy_balance=4.7220683080125216e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.026733702749776,
+      "complexity_coefficient": 0.5856745329334213,
+      "critical_temperature": 1.340268207339064,
+      "field_strength": 1.14513349831328,
+      "entropy_balance": 0.012999175473404179,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.881582260131836, entropy_balance=4.04044290859565e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.957192522548103,
+      "complexity_coefficient": 0.8918801661945637,
+      "critical_temperature": 1.2675864560472343,
+      "field_strength": 1.9234449417498112,
+      "entropy_balance": -0.09144298689238735,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.366342544555664, entropy_balance=3.8213326856358947e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7944116287500593,
+      "complexity_coefficient": 0.5923224195064909,
+      "critical_temperature": 0.6411812990254715,
+      "field_strength": 1.4829905798316183,
+      "entropy_balance": -0.1670511218832875,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.66986083984375, entropy_balance=1.9329387067339404e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4003596023536033,
+      "complexity_coefficient": 0.7879679070930028,
+      "critical_temperature": 1.6723783151788405,
+      "field_strength": 1.6721060459052,
+      "entropy_balance": 0.09328212216111792,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.963457107543945, entropy_balance=5.041639983206653e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.757073221825035,
+      "complexity_coefficient": 0.6788350137555796,
+      "critical_temperature": 1.5348306844793385,
+      "field_strength": 1.0566951356044763,
+      "entropy_balance": 0.13415612854047637,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.37668800354004, entropy_balance=4.62698095894605e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3526669486079954,
+      "complexity_coefficient": 0.8557354945746736,
+      "critical_temperature": 1.8218399295957957,
+      "field_strength": 0.8385044721845907,
+      "entropy_balance": -0.0029471513074118827,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.20812225341797, entropy_balance=5.492214598217605e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.459192201454632,
+      "complexity_coefficient": 1.0277707539847032,
+      "critical_temperature": 0.9545954227458066,
+      "field_strength": 0.5605114199483403,
+      "entropy_balance": 0.11937121282205526,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.365150451660156, entropy_balance=2.877773642286809e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.06566807007863,
+      "complexity_coefficient": 0.764779901340076,
+      "critical_temperature": 0.7033672708987815,
+      "field_strength": 1.832776742242138,
+      "entropy_balance": 0.19657833768136207,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.1727352142334, entropy_balance=2.12040817784838e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2541860041860198,
+      "complexity_coefficient": 0.5204711624949659,
+      "critical_temperature": 1.7320540912855713,
+      "field_strength": 1.9498990854273552,
+      "entropy_balance": 0.1833577121399393,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.0820255279541, entropy_balance=5.2215413664860856e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.51919585114329,
+      "complexity_coefficient": 0.7989514015439576,
+      "critical_temperature": 1.201926361467664,
+      "field_strength": 0.5770123363342943,
+      "entropy_balance": -0.11601090603869087,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.575035095214844, entropy_balance=3.6233900863970564e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3792304265669193,
+      "complexity_coefficient": 1.19620834596511,
+      "critical_temperature": 1.0172270778335266,
+      "field_strength": 1.1702699096025635,
+      "entropy_balance": 0.1464761638820562,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.929262161254883, entropy_balance=3.066585881883451e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7730945721327567,
+      "complexity_coefficient": 0.5940628003139888,
+      "critical_temperature": 1.2749824492906165,
+      "field_strength": 1.275417587467415,
+      "entropy_balance": -0.15399995163193028,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.879858016967773, entropy_balance=3.8436290504462335e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.282560523485815,
+      "complexity_coefficient": 0.6021278064192769,
+      "critical_temperature": 0.9481187208634998,
+      "field_strength": 0.8108923784618518,
+      "entropy_balance": -0.19349174363540161,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.76747703552246, entropy_balance=2.858248565209024e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.000634286393938,
+      "complexity_coefficient": 1.1478130544358864,
+      "critical_temperature": 1.8313914674956897,
+      "field_strength": 0.8502238494078982,
+      "entropy_balance": -0.13514458161230775,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.525699615478516, entropy_balance=5.3922142893804145e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.489941306763311,
+      "complexity_coefficient": 0.5270244187303326,
+      "critical_temperature": 0.639984520940347,
+      "field_strength": 1.8146696727040688,
+      "entropy_balance": 0.15474079812631863,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.349336624145508, entropy_balance=1.9293309994843605e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.5393362813585325,
+      "complexity_coefficient": 0.5820541702629715,
+      "critical_temperature": 0.9511411581258369,
+      "field_strength": 1.6387256623158721,
+      "entropy_balance": -0.05663171836791983,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.551326751708984, entropy_balance=2.867360283379883e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4319480599754986,
+      "complexity_coefficient": 0.870320152385676,
+      "critical_temperature": 1.3009946688860274,
+      "field_strength": 0.7257142990839107,
+      "entropy_balance": -0.10007511107927436,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.452560424804688, entropy_balance=3.9220467298068786e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.8673932410447844,
+      "complexity_coefficient": 1.1063053595903707,
+      "critical_temperature": 0.8172629338205681,
+      "field_strength": 1.281917875918754,
+      "entropy_balance": -0.10157918450054432,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.165584564208984, entropy_balance=2.463764040283889e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.031943856401765,
+      "complexity_coefficient": 0.799332914781598,
+      "critical_temperature": 1.598771508845547,
+      "field_strength": 1.76393867562137,
+      "entropy_balance": 0.18183026550193498,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.85547637939453, entropy_balance=4.8197407631165743e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2464653276320896,
+      "complexity_coefficient": 0.8365876651562575,
+      "critical_temperature": 1.8245203416790017,
+      "field_strength": 1.2502836587593817,
+      "entropy_balance": 0.1868834855199022,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.592798233032227, entropy_balance=5.5002938118948175e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.086730215263043,
+      "complexity_coefficient": 0.7167911076953077,
+      "critical_temperature": 1.617478769993563,
+      "field_strength": 1.7296737997663485,
+      "entropy_balance": 0.11219699226009028,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.2291316986084, entropy_balance=4.876136340313918e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4231363574111118,
+      "complexity_coefficient": 1.0089852650885511,
+      "critical_temperature": 0.5491147763095752,
+      "field_strength": 0.6822759217178749,
+      "entropy_balance": 0.17201623462789634,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.112958908081055, entropy_balance=1.655390150845955e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.671282248505114,
+      "complexity_coefficient": 1.0266278258543924,
+      "critical_temperature": 0.5847537255162776,
+      "field_strength": 1.7570252580910188,
+      "entropy_balance": 0.17533416119528317,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.058809280395508, entropy_balance=1.762829338819951e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0310615920920316,
+      "complexity_coefficient": 0.6358245074941777,
+      "critical_temperature": 1.2637335199322386,
+      "field_strength": 1.882693090847824,
+      "entropy_balance": 0.07664208235618591,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.052013397216797, entropy_balance=3.8097174178645516e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4250204293541557,
+      "complexity_coefficient": 0.6269992524686367,
+      "critical_temperature": 0.7344605723146709,
+      "field_strength": 0.5550464741133982,
+      "entropy_balance": 0.13285960128012125,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.89920997619629, entropy_balance=2.2141435542061766e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.193653521693082,
+      "complexity_coefficient": 0.8666649952671236,
+      "critical_temperature": 1.806365455535961,
+      "field_strength": 1.7614537212560326,
+      "entropy_balance": 0.13407919205391827,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.96839714050293, entropy_balance=5.445563850161384e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2789937073453634,
+      "complexity_coefficient": 0.9144064369674828,
+      "critical_temperature": 0.9715768744376294,
+      "field_strength": 1.8636757119757088,
+      "entropy_balance": 0.1534772757293722,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.908903121948242, entropy_balance=2.9289666178525445e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.478969810202876,
+      "complexity_coefficient": 0.8433430219156506,
+      "critical_temperature": 1.3310361289706114,
+      "field_strength": 1.1971160839704265,
+      "entropy_balance": -0.1368982525384607,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.310834884643555, entropy_balance=4.0126111918903476e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.2365638594725037,
+      "complexity_coefficient": 1.1799303504933414,
+      "critical_temperature": 1.7101935924053375,
+      "field_strength": 1.5769316325511094,
+      "entropy_balance": -0.18718363601115962,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.79679298400879, entropy_balance=5.1556391049439414e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.7875183761510733,
+      "complexity_coefficient": 0.6525306908908404,
+      "critical_temperature": 1.2547501300383508,
+      "field_strength": 1.711754803238139,
+      "entropy_balance": -0.13708060046410392,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=18.917678833007812, entropy_balance=3.7826357873621484e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.6380672584106337,
+      "complexity_coefficient": 0.9734605431816146,
+      "critical_temperature": 0.6641056904931609,
+      "field_strength": 0.7433725636829396,
+      "entropy_balance": 0.08230635264654951,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.2666015625, entropy_balance=2.002048116910323e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.4689149829547596,
+      "complexity_coefficient": 0.803845753412416,
+      "critical_temperature": 0.5751096719298621,
+      "field_strength": 1.7893810801786936,
+      "entropy_balance": 0.16017856202586572,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=18.559520721435547, entropy_balance=1.693310748347734e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.3853235766185317,
+      "complexity_coefficient": 0.8484090360705574,
+      "critical_temperature": 1.4467674789728133,
+      "field_strength": 0.5250516385913905,
+      "entropy_balance": -0.17022874148235007,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.98944854736328, entropy_balance=4.361501241128862e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.745845294297703,
+      "complexity_coefficient": 0.8978222563501854,
+      "critical_temperature": 0.6273567227343265,
+      "field_strength": 1.1122800612267116,
+      "entropy_balance": -0.016247462125588724,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.726972579956055, entropy_balance=1.8912624353038486e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 3.0384115708030706,
+      "complexity_coefficient": 0.885007284177324,
+      "critical_temperature": 1.1649591891981186,
+      "field_strength": 1.228551890761632,
+      "entropy_balance": 0.06269991398891983,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=19.97900390625, entropy_balance=3.511947176416777e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.632748150024235,
+      "complexity_coefficient": 0.7091865983125054,
+      "critical_temperature": 1.606891391396784,
+      "field_strength": 1.2197189391810188,
+      "entropy_balance": 0.01806517370509403,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.287792205810547, entropy_balance=4.8442188791284516e-17, score=0.5392607621935466)"
+    },
+    {
+      "fractal_dimension": 2.899944834297812,
+      "complexity_coefficient": 0.724802832465124,
+      "critical_temperature": 1.277102314938202,
+      "field_strength": 1.334899223711746,
+      "entropy_balance": -0.014015327017839196,
+      "result": "OptimizationResult(consciousness_level=2, constraint_satisfaction=0.5, fractal_dimension=1.4179310055297392, complexity_coefficient=0.94732028491564, chaos_threshold=20.885616302490234, entropy_balance=3.850019812857148e-17, score=0.5392607621935466)"
+    }
+  ]
+}

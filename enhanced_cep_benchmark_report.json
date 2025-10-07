@@ -1,11 +1,11 @@
 {
   "summary": {
     "total_benchmarks": 5,
-    "timestamp": "2025-10-07 17:45:19",
+    "timestamp": "2025-10-07 18:32:09",
     "framework": "Enhanced CEP-EIT-P",
     "version": "2.0.0",
     "inference_performance": {
-      "max_throughput": 41585.66320681642,
+      "max_throughput": 77061.33547683297,
       "best_configuration": "Small (batch 64)"
     },
     "consciousness_performance": {
@@ -19,97 +19,97 @@
     "inference_speed": {
       "Small": {
         "1": {
-          "avg_time": 0.0006335258483886718,
-          "std_time": 4.703035971501484e-05,
-          "throughput": 1578.4675598374229,
+          "avg_time": 0.0006862163543701171,
+          "std_time": 3.7908524087378195e-05,
+          "throughput": 1457.2663470224447,
           "consciousness_level": 2
         },
         "8": {
-          "avg_time": 0.001063060760498047,
-          "std_time": 0.0002710528555242002,
-          "throughput": 7525.440028707275,
+          "avg_time": 0.0005311012268066406,
+          "std_time": 0.00029489703276819307,
+          "throughput": 15063.041838750225,
           "consciousness_level": 2
         },
         "16": {
-          "avg_time": 0.0011487007141113281,
-          "std_time": 0.00024103186822355658,
-          "throughput": 13928.780406807804,
+          "avg_time": 0.0006166934967041015,
+          "std_time": 0.00021640478900681893,
+          "throughput": 25944.817134462228,
           "consciousness_level": 2
         },
         "32": {
-          "avg_time": 0.0011880874633789062,
-          "std_time": 0.00016616070713347062,
-          "throughput": 26934.043987799007,
+          "avg_time": 0.0006915569305419922,
+          "std_time": 0.00011570634188089426,
+          "throughput": 46272.401572088536,
           "consciousness_level": 2
         },
         "64": {
-          "avg_time": 0.001538991928100586,
-          "std_time": 0.00025203832324632104,
-          "throughput": 41585.66320681642,
+          "avg_time": 0.0008305072784423828,
+          "std_time": 0.0002409517941241945,
+          "throughput": 77061.33547683297,
           "consciousness_level": 2
         }
       },
       "Medium": {
         "1": {
-          "avg_time": 0.0008464813232421875,
-          "std_time": 4.844548193944992e-05,
-          "throughput": 1181.3609734114466,
+          "avg_time": 0.0003092765808105469,
+          "std_time": 4.012164633938229e-05,
+          "throughput": 3233.3518347209374,
           "consciousness_level": 2
         },
         "8": {
-          "avg_time": 0.001016521453857422,
-          "std_time": 3.9886395075630445e-05,
-          "throughput": 7869.97654564218,
+          "avg_time": 0.0003977298736572266,
+          "std_time": 3.2127432119943376e-05,
+          "throughput": 20114.154178156095,
           "consciousness_level": 2
         },
         "16": {
-          "avg_time": 0.0011014461517333985,
-          "std_time": 3.1432358955111044e-05,
-          "throughput": 14526.356985150871,
+          "avg_time": 0.0004840373992919922,
+          "std_time": 2.8696486462627638e-05,
+          "throughput": 33055.29701507241,
           "consciousness_level": 2
         },
         "32": {
-          "avg_time": 0.0013640880584716796,
-          "std_time": 1.498407186158602e-05,
-          "throughput": 23458.89607438739,
+          "avg_time": 0.0006506919860839843,
+          "std_time": 1.2399966704863817e-05,
+          "throughput": 49178.41418730764,
           "consciousness_level": 2
         },
         "64": {
-          "avg_time": 0.0016856670379638671,
-          "std_time": 6.648662774354757e-05,
-          "throughput": 37967.16585103675,
+          "avg_time": 0.0009886264801025391,
+          "std_time": 4.454246131056389e-05,
+          "throughput": 64736.279361404515,
           "consciousness_level": 2
         }
       },
       "Large": {
         "1": {
-          "avg_time": 0.00034723281860351565,
-          "std_time": 0.00010196787740538105,
-          "throughput": 2879.912112057127,
+          "avg_time": 0.00036878585815429686,
+          "std_time": 0.00010826927632091804,
+          "throughput": 2711.6007240755107,
           "consciousness_level": 2
         },
         "8": {
-          "avg_time": 0.0005795001983642578,
-          "std_time": 2.146593570535038e-05,
-          "throughput": 13804.999588578952,
+          "avg_time": 0.0005831241607666016,
+          "std_time": 2.185319256951803e-05,
+          "throughput": 13719.205168043176,
           "consciousness_level": 2
         },
         "16": {
-          "avg_time": 0.0008038043975830078,
-          "std_time": 2.9321259294902928e-05,
-          "throughput": 19905.340214747583,
+          "avg_time": 0.000836181640625,
+          "std_time": 3.907865976071776e-05,
+          "throughput": 19134.598540145987,
           "consciousness_level": 2
         },
         "32": {
-          "avg_time": 0.0012493133544921875,
-          "std_time": 9.371421284271626e-05,
-          "throughput": 25614.070229007633,
+          "avg_time": 0.0013947486877441406,
+          "std_time": 0.00024864289430479014,
+          "throughput": 22943.201367521368,
           "consciousness_level": 2
         },
         "64": {
-          "avg_time": 0.0020206928253173827,
-          "std_time": 0.00010107514891651396,
-          "throughput": 31672.305259928737,
+          "avg_time": 0.002002382278442383,
+          "std_time": 0.00018175038451493424,
+          "throughput": 31961.92889291072,
           "consciousness_level": 2
         }
       }
@@ -127,7 +127,7 @@
         "total_params": 567434
       },
       "Medium": {
-        "model_size": 4.25,
+        "model_size": 2.75,
         "batch_memory": {
           "1": 0.0,
           "8": 0.0,
@@ -186,211 +186,211 @@
     "energy_efficiency": {
       "0.1": {
         "1": {
-          "total_energy": 6.69049561326551e+16,
-          "mass_energy": 6.69049561326551e+16,
-          "field_energy": 1.008378080024463e-19,
-          "entropy_energy": -6.6594696044921875,
-          "iem_energy": 1.622478723526001,
+          "total_energy": -2.965256072677294e+17,
+          "mass_energy": -2.965256072677294e+17,
+          "field_energy": 8.975148753096166e-20,
+          "entropy_energy": -6.659356594085693,
+          "iem_energy": 0.31635910272598267,
           "efficiency": 1.0
         },
         "8": {
-          "total_energy": 8.325572482983526e+16,
-          "mass_energy": 8.325572482983526e+16,
-          "field_energy": 6.891467219143165e-20,
-          "entropy_energy": -6.659286975860596,
-          "iem_energy": 0.5590044856071472,
+          "total_energy": -8.51083246132265e+16,
+          "mass_energy": -8.51083246132265e+16,
+          "field_energy": 1.51987380672018e-19,
+          "entropy_energy": -6.659532070159912,
+          "iem_energy": 0.8188955783843994,
           "efficiency": 1.0
         },
         "16": {
-          "total_energy": 1.0247584950832333e+17,
-          "mass_energy": 1.0247584950832333e+17,
-          "field_energy": 5.990564134496349e-20,
-          "entropy_energy": -6.659490585327148,
-          "iem_energy": 0.44379252195358276,
+          "total_energy": 2.913517694038835e+16,
+          "mass_energy": 2.913517694038835e+16,
+          "field_energy": 1.428672491295263e-19,
+          "entropy_energy": -6.659390449523926,
+          "iem_energy": 0.36273452639579773,
           "efficiency": 1.0
         },
         "32": {
-          "total_energy": -3.048813888326861e+16,
-          "mass_energy": -3.048813888326861e+16,
-          "field_energy": 7.381072838773888e-20,
-          "entropy_energy": -6.587423324584961,
-          "iem_energy": 0.3804665207862854,
+          "total_energy": 3.1690764085886976e+16,
+          "mass_energy": 3.1690764085886976e+16,
+          "field_energy": 1.510862449428239e-19,
+          "entropy_energy": -6.659355163574219,
+          "iem_energy": 0.6174670457839966,
           "efficiency": 1.0
         },
         "64": {
-          "total_energy": -6163462753353728.0,
-          "mass_energy": -6163462753353728.0,
-          "field_energy": 7.263221573470102e-20,
-          "entropy_energy": -6.659420967102051,
-          "iem_energy": 0.5938554406166077,
+          "total_energy": -2.865883500249088e+16,
+          "mass_energy": -2.865883500249088e+16,
+          "field_energy": 1.4451978797234533e-19,
+          "entropy_energy": -6.659423351287842,
+          "iem_energy": 0.49926623702049255,
           "efficiency": 1.0
         }
       },
       "0.3": {
         "1": {
-          "total_energy": 5.998589782177874e+17,
-          "mass_energy": 5.998589782177874e+17,
-          "field_energy": 3.527013862901206e-19,
-          "entropy_energy": -6.619178295135498,
-          "iem_energy": 0.05312636122107506,
+          "total_energy": 1.0540874351782134e+18,
+          "mass_energy": 1.0540874351782134e+18,
+          "field_energy": 4.477446454676166e-19,
+          "entropy_energy": -6.616757392883301,
+          "iem_energy": 0.12832887470722198,
           "efficiency": 1.0
         },
         "8": {
-          "total_energy": 2.692404359504855e+17,
-          "mass_energy": 2.692404359504855e+17,
-          "field_energy": 3.786895399801585e-19,
-          "entropy_energy": -6.619973659515381,
-          "iem_energy": 0.26000815629959106,
+          "total_energy": -4.118264782300119e+17,
+          "mass_energy": -4.118264782300119e+17,
+          "field_energy": 2.5296747020217194e-19,
+          "entropy_energy": -6.61985969543457,
+          "iem_energy": 0.30019012093544006,
           "efficiency": 1.0
         },
         "16": {
-          "total_energy": -1.5453369640419328e+17,
-          "mass_energy": -1.5453369640419328e+17,
-          "field_energy": 3.6130928623828885e-19,
-          "entropy_energy": -6.6202168464660645,
-          "iem_energy": 0.584551215171814,
+          "total_energy": 3.477295888953508e+17,
+          "mass_energy": 3.477295888953508e+17,
+          "field_energy": 3.245152586161645e-19,
+          "entropy_energy": -6.6204071044921875,
+          "iem_energy": 0.758195698261261,
           "efficiency": 1.0
         },
         "32": {
-          "total_energy": 1.5920955857987174e+17,
-          "mass_energy": 1.5920955857987174e+17,
-          "field_energy": 3.899734467581182e-19,
-          "entropy_energy": -6.61991024017334,
-          "iem_energy": 0.6918898820877075,
+          "total_energy": -2.7330320013459456e+17,
+          "mass_energy": -2.7330320013459456e+17,
+          "field_energy": 2.7877279112744147e-19,
+          "entropy_energy": -6.619574069976807,
+          "iem_energy": 0.5718054175376892,
           "efficiency": 1.0
         },
         "64": {
-          "total_energy": 1.0611362667849318e+17,
-          "mass_energy": 1.0611362667849318e+17,
-          "field_energy": 3.7599582631537957e-19,
-          "entropy_energy": -6.619619369506836,
-          "iem_energy": 0.5976791381835938,
+          "total_energy": -1.2051685104523674e+17,
+          "mass_energy": -1.2051685104523674e+17,
+          "field_energy": 2.8981937461778088e-19,
+          "entropy_energy": -6.619102954864502,
+          "iem_energy": 0.634493887424469,
           "efficiency": 1.0
         }
       },
       "0.5": {
         "1": {
-          "total_energy": -1.6258904500679475e+18,
-          "mass_energy": -1.6258904500679475e+18,
-          "field_energy": 7.092601225717291e-19,
-          "entropy_energy": -6.539100170135498,
-          "iem_energy": 0.12360820919275284,
+          "total_energy": 8.194422392425021e+17,
+          "mass_energy": 8.194422392425021e+17,
+          "field_energy": 7.960745373167594e-19,
+          "entropy_energy": -6.537207126617432,
+          "iem_energy": 1.187096118927002,
           "efficiency": 1.0
         },
         "8": {
-          "total_energy": 4.3018399308683674e+17,
-          "mass_energy": 4.3018399308683674e+17,
-          "field_energy": 6.829254836026081e-19,
-          "entropy_energy": -6.538884162902832,
-          "iem_energy": 0.39008885622024536,
+          "total_energy": -2.207965549260964e+17,
+          "mass_energy": -2.207965549260964e+17,
+          "field_energy": 8.043978871342093e-19,
+          "entropy_energy": -6.538618087768555,
+          "iem_energy": 0.6186054944992065,
           "efficiency": 1.0
         },
         "16": {
-          "total_energy": -2.0025214580136346e+17,
-          "mass_energy": -2.0025214580136346e+17,
-          "field_energy": 6.961064515672757e-19,
-          "entropy_energy": -6.539775848388672,
-          "iem_energy": 0.4598059356212616,
+          "total_energy": 2.7436946871549952e+17,
+          "mass_energy": 2.7436946871549952e+17,
+          "field_energy": 8.723817937284113e-19,
+          "entropy_energy": -6.5406270027160645,
+          "iem_energy": 0.34534555673599243,
           "efficiency": 1.0
         },
         "32": {
-          "total_energy": -1.8533282098446336e+17,
-          "mass_energy": -1.8533282098446336e+17,
-          "field_energy": 6.76052801784423e-19,
-          "entropy_energy": -6.540821075439453,
-          "iem_energy": 0.48120564222335815,
+          "total_energy": -6.460009629299507e+16,
+          "mass_energy": -6.460009629299507e+16,
+          "field_energy": 7.951594170653343e-19,
+          "entropy_energy": -6.539051055908203,
+          "iem_energy": 0.5231350064277649,
           "efficiency": 1.0
         },
         "64": {
-          "total_energy": 2.8123213925974016e+16,
-          "mass_energy": 2.8123213925974016e+16,
-          "field_energy": 6.843816833722194e-19,
-          "entropy_energy": -6.539503574371338,
-          "iem_energy": 0.6322420835494995,
+          "total_energy": -3289972866023424.0,
+          "mass_energy": -3289972866023424.0,
+          "field_energy": 8.049315737256709e-19,
+          "entropy_energy": -6.540190696716309,
+          "iem_energy": 0.41683754324913025,
           "efficiency": 1.0
         }
       },
       "0.7": {
         "1": {
-          "total_energy": 2.1866622709546353e+18,
-          "mass_energy": 2.1866622709546353e+18,
-          "field_energy": 4.892939793349435e-19,
-          "entropy_energy": -6.436433792114258,
-          "iem_energy": 0.02723752148449421,
+          "total_energy": -2.77357597722411e+17,
+          "mass_energy": -2.77357597722411e+17,
+          "field_energy": 1.6570541115902217e-18,
+          "entropy_energy": -6.42831563949585,
+          "iem_energy": 0.5729747414588928,
           "efficiency": 1.0
         },
         "8": {
-          "total_energy": 1.168786357884027e+18,
-          "mass_energy": 1.168786357884027e+18,
-          "field_energy": 7.186919978075768e-19,
-          "entropy_energy": -6.413185119628906,
-          "iem_energy": 0.5779204368591309,
+          "total_energy": 8.905022841762611e+16,
+          "mass_energy": 8.905022841762611e+16,
+          "field_energy": 1.4266650790449617e-18,
+          "entropy_energy": -6.421236991882324,
+          "iem_energy": 0.402122437953949,
           "efficiency": 1.0
         },
         "16": {
-          "total_energy": -6.567089520540385e+17,
-          "mass_energy": -6.567089520540385e+17,
-          "field_energy": 7.543949742017437e-19,
-          "entropy_energy": -6.419600486755371,
-          "iem_energy": 0.44470691680908203,
+          "total_energy": 5.035507275163238e+16,
+          "mass_energy": 5.035507275163238e+16,
+          "field_energy": 1.2843353163678358e-18,
+          "entropy_energy": -6.426201820373535,
+          "iem_energy": 0.2624477744102478,
           "efficiency": 1.0
         },
         "32": {
-          "total_energy": 2.5433750072878694e+17,
-          "mass_energy": 2.5433750072878694e+17,
-          "field_energy": 8.348035988855867e-19,
-          "entropy_energy": -6.424689292907715,
-          "iem_energy": 0.5629302263259888,
+          "total_energy": 1.824195962071941e+17,
+          "mass_energy": 1.824195962071941e+17,
+          "field_energy": 1.3518383208334148e-18,
+          "entropy_energy": -6.4132866859436035,
+          "iem_energy": 0.4543498754501343,
           "efficiency": 1.0
         },
         "64": {
-          "total_energy": 1.8511004962075443e+17,
-          "mass_energy": 1.8511004962075443e+17,
-          "field_energy": 7.852142762593975e-19,
-          "entropy_energy": -6.419221878051758,
-          "iem_energy": 0.607699990272522,
+          "total_energy": 1.2480699938793062e+17,
+          "mass_energy": 1.2480699938793062e+17,
+          "field_energy": 1.3392609362219694e-18,
+          "entropy_energy": -6.419196605682373,
+          "iem_energy": 0.5196510553359985,
           "efficiency": 1.0
         }
       },
       "0.9": {
         "1": {
-          "total_energy": -2.5638711753399337e+18,
-          "mass_energy": -2.5638711753399337e+18,
-          "field_energy": 6.565526909277331e-19,
-          "entropy_energy": -6.2372236251831055,
-          "iem_energy": 1.291835069656372,
+          "total_energy": 1.1163746314527703e+18,
+          "mass_energy": 1.1163746314527703e+18,
+          "field_energy": 2.085856889717045e-18,
+          "entropy_energy": -6.230251789093018,
+          "iem_energy": 0.16798287630081177,
           "efficiency": 1.0
         },
         "8": {
-          "total_energy": -1.1122271361538458e+18,
-          "mass_energy": -1.1122271361538458e+18,
-          "field_energy": 1.0964894234970968e-18,
-          "entropy_energy": -6.251371383666992,
-          "iem_energy": 0.5111457109451294,
+          "total_energy": -1.1477496080682189e+18,
+          "mass_energy": -1.1477496080682189e+18,
+          "field_energy": 1.6865549911490426e-18,
+          "entropy_energy": -6.259584426879883,
+          "iem_energy": 0.8613507747650146,
           "efficiency": 1.0
         },
         "16": {
-          "total_energy": 3.89422073388204e+17,
-          "mass_energy": 3.89422073388204e+17,
-          "field_energy": 9.09481464586874e-19,
-          "entropy_energy": -6.261653900146484,
-          "iem_energy": 0.4202367961406708,
+          "total_energy": -6.014914093876511e+17,
+          "mass_energy": -6.014914093876511e+17,
+          "field_energy": 1.4886458257411366e-18,
+          "entropy_energy": -6.253447532653809,
+          "iem_energy": 0.40194565057754517,
           "efficiency": 1.0
         },
         "32": {
-          "total_energy": 6.997959952480338e+17,
-          "mass_energy": 6.997959952480338e+17,
-          "field_energy": 1.06281107504973e-18,
-          "entropy_energy": -6.251492977142334,
-          "iem_energy": 0.5203229784965515,
+          "total_energy": -5.849900763169423e+17,
+          "mass_energy": -5.849900763169423e+17,
+          "field_energy": 1.5486167303439608e-18,
+          "entropy_energy": -6.267668724060059,
+          "iem_energy": 0.46065154671669006,
           "efficiency": 1.0
         },
         "64": {
-          "total_energy": -2.7273753576184218e+17,
-          "mass_energy": -2.7273753576184218e+17,
-          "field_energy": 1.0352534495449493e-18,
-          "entropy_energy": -6.261325836181641,
-          "iem_energy": 0.5481414794921875,
+          "total_energy": 2.0302928883482624e+17,
+          "mass_energy": 2.0302928883482624e+17,
+          "field_energy": 1.4493387200204996e-18,
+          "entropy_energy": -6.263445854187012,
+          "iem_energy": 0.5025733113288879,
           "efficiency": 1.0
         }
       }
@@ -398,26 +398,26 @@
     "scalability": {
       "Tiny": {
         "parameters": 41802,
-        "inference_time": 0.0008530139923095704,
-        "throughput": 37514.03879479009,
+        "inference_time": 0.0004153251647949219,
+        "throughput": 77048.06429391504,
         "consciousness_level": 2
       },
       "Small": {
         "parameters": 166804,
-        "inference_time": 0.0009409427642822265,
-        "throughput": 34008.444737242186,
+        "inference_time": 0.0005353927612304687,
+        "throughput": 59769.20555753474,
         "consciousness_level": 2
       },
       "Medium": {
         "parameters": 668978,
-        "inference_time": 0.0011926651000976562,
-        "throughput": 26830.66687989765,
+        "inference_time": 0.0006946563720703125,
+        "throughput": 46065.94179022515,
         "consciousness_level": 2
       },
       "Large": {
         "parameters": 2674276,
-        "inference_time": 0.0016566276550292968,
-        "throughput": 19316.35023890392,
+        "inference_time": 0.0009808063507080079,
+        "throughput": 32626.21615051777,
         "consciousness_level": 2
       }
     }
@@ -426,17 +426,17 @@
     {
       "type": "inference_optimization",
       "configuration": "Small",
-      "recommendation": "Use batch size 64 for optimal throughput (41586 samples/s)"
+      "recommendation": "Use batch size 64 for optimal throughput (77061 samples/s)"
     },
     {
       "type": "inference_optimization",
       "configuration": "Medium",
-      "recommendation": "Use batch size 64 for optimal throughput (37967 samples/s)"
+      "recommendation": "Use batch size 64 for optimal throughput (64736 samples/s)"
     },
     {
       "type": "inference_optimization",
       "configuration": "Large",
-      "recommendation": "Use batch size 64 for optimal throughput (31672 samples/s)"
+      "recommendation": "Use batch size 64 for optimal throughput (31962 samples/s)"
     },
     {
       "type": "consciousness_optimization",
