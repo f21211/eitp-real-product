@@ -4,7 +4,11 @@
 
 **标题**: EIT-P: A Revolutionary AI Training Framework Based on Modified Mass-Energy Equation and Emergent Intelligence Theory
 
-**作者**: EIT-P Research Team
+**作者**: 
+- Ziting Chen (Guangdong Technion - Israel Institute of Technology)
+- Wenjun Chen (Guangzhou Shulian Internet Technology Co., Ltd.)
+
+**邮箱**: 
 - chen11521@gtiit.edu.cn
 - chenting11521@gmail.com  
 - cwjvictor@gmail.com
