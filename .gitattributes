@@ -1,0 +1,21 @@
+# Set default language to English
+*.md linguist-language=English
+*.py linguist-language=Python
+*.tex linguist-language=TeX
+*.json linguist-language=JSON
+*.yaml linguist-language=YAML
+*.yml linguist-language=YAML
+*.sh linguist-language=Shell
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+
+# Documentation files
+README.md linguist-language=English
+LICENSE linguist-language=English
+CONTRIBUTING.md linguist-language=English
+
+# Code files
+*.py linguist-language=Python
+*.tex linguist-language=TeX
+*.json linguist-language=JSON

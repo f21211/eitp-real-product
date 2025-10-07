@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-EIT-P 真实生产级API服务器
-基于IEM理论的涌现智能框架 - 真实产品实现
+EIT-P Production API Server
+Emergent Intelligence Framework based on IEM Theory - Real Product Implementation
 """
 
 import os
