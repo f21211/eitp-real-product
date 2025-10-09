@@ -8,9 +8,30 @@
 [![Performance](https://img.shields.io/badge/Performance-0.436s%20Inference-orange.svg)]()
 [![GPU](https://img.shields.io/badge/GPU-Dual%20RTX%203090-purple.svg)]()
 
-## 🎉 Project Status: 100% Complete - Real Product Running!
+> **📄 Academic Paper**: Published on Zenodo with DOI [10.5281/zenodo.17298818](https://doi.org/10.5281/zenodo.17298818)  
+> **🔬 Research Prototype**: This is an academic research project with continuous improvements
 
-**EIT-P framework has been fully implemented and validated, all 9 core modules are running perfectly in production environment!**
+## 🚧 Development Status
+
+**Version**: v1.0 (Research Prototype)  
+**Status**: Active Development
+
+⚠️ **Important Notice**:
+- This is an academic research prototype demonstrating the EIT-P framework
+- All experimental results have been fully validated and published in our paper
+- Code is continuously being improved and optimized
+- Welcome to contribute via Issues and Pull Requests
+- Some advanced features are still being refined (see [Issues](https://github.com/f21211/eitp-real-product/issues))
+
+📄 **Paper**: [Physics-Informed Intelligence Emergence Framework (DOI: 10.5281/zenodo.17298818)](https://doi.org/10.5281/zenodo.17298818)  
+📖 **Documentation**: See module READMEs and inline code documentation  
+💬 **Contact**: For questions or collaboration, please use [GitHub Issues](https://github.com/f21211/eitp-real-product/issues)
+
+---
+
+## 🎉 Core Implementation Complete
+
+**EIT-P framework has been fully implemented and validated, with all 9 core modules running in production environment!**
 
 ## 🌟 Revolutionary Advantages
 
