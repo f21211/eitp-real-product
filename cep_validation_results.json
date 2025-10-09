@@ -1,0 +1,82 @@
+{
+  "timestamp": "2025-10-09T15:39:05.155395",
+  "validation_1_complexity_threshold": [
+    {
+      "name": "低复杂度",
+      "layers": 2,
+      "dim": 32,
+      "fractal_dimension": 0.490902633995251,
+      "complexity_coefficient": 0.9947916666666666,
+      "emergence_score": 0.01110257986255192
+    },
+    {
+      "name": "中低复杂度",
+      "layers": 3,
+      "dim": 64,
+      "fractal_dimension": 0.4451505509352155,
+      "complexity_coefficient": 0.9924679487179487,
+      "emergence_score": 0.005266484424060636
+    },
+    {
+      "name": "中等复杂度",
+      "layers": 4,
+      "dim": 128,
+      "fractal_dimension": 0.517492568250068,
+      "complexity_coefficient": 0.9885840600775194,
+      "emergence_score": 0.0007545409556369842
+    },
+    {
+      "name": "中高复杂度",
+      "layers": 6,
+      "dim": 192,
+      "fractal_dimension": 0.36293566200796107,
+      "complexity_coefficient": 0.9860571387449626,
+      "emergence_score": 0.0006227187051789651
+    },
+    {
+      "name": "高复杂度",
+      "layers": 8,
+      "dim": 256,
+      "fractal_dimension": 0.47489382358322824,
+      "complexity_coefficient": 0.9839247172908561,
+      "emergence_score": 0.00034617579712790253
+    }
+  ],
+  "validation_2_energy_efficiency": [
+    {
+      "name": "低复杂度",
+      "params_M": 0.002112,
+      "inference_time_ms": 0.013232231140136719,
+      "emergence": 0.019216113162418003,
+      "efficiency": 687604.25455213
+    },
+    {
+      "name": "中低复杂度",
+      "params_M": 0.01248,
+      "inference_time_ms": 0.026836395263671875,
+      "emergence": 0.0031946900501907127,
+      "efficiency": 9538.71699785407
+    },
+    {
+      "name": "中等复杂度",
+      "params_M": 0.066048,
+      "inference_time_ms": 0.046787261962890625,
+      "emergence": 0.001090936555954436,
+      "efficiency": 353.0304715622201
+    },
+    {
+      "name": "中高复杂度",
+      "params_M": 0.222336,
+      "inference_time_ms": 0.08760452270507812,
+      "emergence": 0.0005504049227185968,
+      "efficiency": 28.258297537645806
+    },
+    {
+      "name": "高复杂度",
+      "params_M": 0.526336,
+      "inference_time_ms": 0.14180660247802734,
+      "emergence": 0.00045155504769252286,
+      "efficiency": 6.049941479681836
+    }
+  ]
+}
