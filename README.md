@@ -1,5 +1,6 @@
 # 🚀 EIT-P: Revolutionary Emergent Intelligence AI Training Platform
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17298818.svg)](https://doi.org/10.5281/zenodo.17298818)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.8+-red.svg)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
