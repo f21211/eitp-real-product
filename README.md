@@ -1,6 +1,7 @@
 # 🚀 EIT-P: Revolutionary Emergent Intelligence AI Training Platform
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17298818.svg)](https://doi.org/10.5281/zenodo.17298818)
+[![EIT-P DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17298818.svg)](https://doi.org/10.5281/zenodo.17298818)
+[![CEP Theory DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17301897.svg)](https://doi.org/10.5281/zenodo.17301897)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.8+-red.svg)](https://pytorch.org)
 [![License](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](LICENSE)
@@ -8,7 +9,10 @@
 [![Performance](https://img.shields.io/badge/Performance-0.436s%20Inference-orange.svg)]()
 [![GPU](https://img.shields.io/badge/GPU-Dual%20RTX%203090-purple.svg)]()
 
-> **📄 Academic Paper**: Published on Zenodo with DOI [10.5281/zenodo.17298818](https://doi.org/10.5281/zenodo.17298818)  
+> **📄 Academic Papers Published on Zenodo**:  
+> - **CEP Theory** (Theoretical Foundation): [DOI 10.5281/zenodo.17301897](https://doi.org/10.5281/zenodo.17301897)  
+> - **EIT-P Framework** (Implementation): [DOI 10.5281/zenodo.17298818](https://doi.org/10.5281/zenodo.17298818)  
+>
 > **🔬 Research Prototype**: This is an academic research project with continuous improvements
 
 ## 🚧 Development Status
